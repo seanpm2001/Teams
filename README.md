@@ -21,11 +21,20 @@ My workflow will be split into sets of teams, volunteers who want to work on spe
 
 **Notes:**
 
-Being in a subteam or microteam is not a bad thing at all. A subteam is simply a subset of the team, and a microteam is a subset of a subset of a team.
+Being in a subteam or microteam is not a bad thing at all. A subteam is simply a subset of the team, and a microteam is a subset of a subset of a team. A sub-micro team is a subset of a subset of a subset of a team. Regardless, you will always be part of a team.
 
-Want to join a team? Become a volunteer
+Want to join a team? Become a volunteer.
 
 For now, I am going to start with 20 active subteams, and will expand as I go.
+
+Note to self: Do not maintain more than 20 teams as a starter amount. Expanding to 21-25 or higher is not recommended yet.
+
+<!-- Addition process
+Gaming - Good
+OS - Needs work
+SNU - Needs lots of work
+etc. - Needs work
+!-->
 
 ## Articles and documentation team
 
@@ -515,7 +524,411 @@ For now, I am going to start with 20 active subteams, and will expand as I go.
 
 #### SNU Accessibility subteam
 
+#### SNU Programming tools subteam
 
+> SNU Programming Tools IDE for HTML scripting subteam
+
+> SNU Programming Tools IDE for SGML scripting subteam
+
+> SNU Programming Tools IDE for XML scripting subteam
+
+> SNU Programming Tools IDE for CSS scripting subteam
+
+> SNU Programming Tools IDE for LESS scripting subteam
+
+> SNU Programming Tools IDE for SASS scripting subteam
+
+> SNU Programming Tools IDE for Ada programmer subteam
+
+> SNU Programming Tools IDE for Agda programmer subteam
+
+> SNU Programming Tools IDE for ALGOL programmer subteam
+
+> SNU Programming Tools IDE for ActionScript programmer subteam
+
+> SNU Programming Tools IDE for AppleScript programmer subteam
+
+> SNU Programming Tools IDE for AngelScript programmer subteam
+
+> SNU Programming Tools IDE for ActionServerPages programmer subteam
+
+> SNU Programming Tools IDE for ASP.NET programmer subteam
+
+> SNU Programming Tools IDE for ANTLR programmer subteam
+
+> SNU Programming Tools IDE for AutoIt programmer subteam
+
+> SNU Programming Tools IDE for Assembly programmer subteam
+
+> SNU Programming Tools IDE for AssemblyScript programmer subteam
+
+> SNU Programming Tools IDE for Astro programmer subteam
+
+> SNU Programming Tools IDE for Boo programmer subteam
+
+> SNU Programming Tools IDE for 1C Enterprise programmer subteam
+
+> SNU Programming Tools IDE for BibTeX programmer subteam
+
+> SNU Programming Tools IDE for Batchfile programmer subteam
+
+> SNU Programming Tools IDE for Ballerina programmer subteam
+
+> SNU Programming Tools IDE for BitBake programmer subteam
+
+> SNU Programming Tools IDE for Brainfuck programmer subteam
+
+> SNU Programming Tools IDE for BrightScript programmer subteam
+
+> SNU Programming Tools IDE for B programmer subteam
+
+> SNU Programming Tools IDE for BSDL programmer subteam
+
+> SNU Programming Tools IDE for C programmer subteam
+
+> SNU Programming Tools IDE for C# programmer subteam
+
+> SNU Programming Tools IDE for C++ programmer subteam
+
+> SNU Programming Tools IDE for CAML programmer subteam
+
+> SNU Programming Tools IDE for COBOL programmer subteam
+
+> SNU Programming Tools IDE for CartoCSS programmer subteam
+
+> SNU Programming Tools IDE for Crystal programmer subteam
+
+> SNU Programming Tools IDE for Cython programmer subteam
+
+> SNU Programming Tools IDE for Cap'n proto programmer subteam
+
+> SNU Programming Tools IDE for Clojure programmer subteam
+
+> SNU Programming Tools IDE for Cobra programmer subteam
+
+> SNU Programming Tools IDE for CodeQL programmer subteam
+
+> SNU Programming Tools IDE for Coq programmer subteam
+
+> SNU Programming Tools IDE for CUDA programmer subteam
+
+> SNU Programming Tools IDE for D programmer subteam
+
+> SNU Programming Tools IDE for Dart programmer subteam
+
+> SNU Programming Tools IDE for Dhall programmer subteam
+
+> SNU Programming Tools IDE for E programmer subteam
+
+> SNU Programming Tools IDE for Eiffel programmer subteam
+
+> SNU Programming Tools IDE for EJS programmer subteam
+
+> SNU Programming Tools IDE for Elixir programmer subteam
+
+> SNU Programming Tools IDE for Elm programmer subteam
+
+> SNU Programming Tools IDE for Emacs Lisp programmer subteam
+
+> SNU Programming Tools IDE for Erlang programmer subteam
+
+> SNU Programming Tools IDE for F# programmer subteam
+
+> SNU Programming Tools IDE for Factor programmer subteam
+
+> SNU Programming Tools IDE for Fancy programmer subteam
+
+> SNU Programming Tools IDE for Fluent programmer subteam
+
+> SNU Programming Tools IDE for FORTRAN programmer subteam
+
+> SNU Programming Tools IDE for G-CODE programmer subteam
+
+> SNU Programming Tools IDE for GAP programmer subteam
+
+> SNU Programming Tools IDE for GDScript programmer subteam
+
+> SNU Programming Tools IDE for Gherkin programmer subteam
+
+> SNU Programming Tools IDE for GLSL programmer subteam
+
+> SNU Programming Tools IDE for GNUPlot programmer subteam
+
+> SNU Programming Tools IDE for Google Go programmer subteam
+
+> SNU Programming Tools IDE for Go! programmer subteam
+
+> SNU Programming Tools IDE for Gosu programmer subteam
+
+> SNU Programming Tools IDE for Groff programmer subteam
+
+> SNU Programming Tools IDE for Groovy programmer subteam
+
+> SNU Programming Tools IDE for Hack programmer subteam
+
+> SNU Programming Tools IDE for HAML programmer subteam
+
+> SNU Programming Tools IDE for Handlebars programmer subteam
+
+> SNU Programming Tools IDE for Haskell programmer subteam
+
+> SNU Programming Tools IDE for Haxe programmer subteam
+
+> SNU Programming Tools IDE for HCL programmer subteam
+
+> SNU Programming Tools IDE for HiveQL programmer subteam
+
+> SNU Programming Tools IDE for HLSL programmer subteam
+
+> SNU Programming Tools IDE for IDL programmer subteam
+
+> SNU Programming Tools IDE for Idris programmer subteam
+
+> SNU Programming Tools IDE for Inno Setup programmer subteam
+
+> SNU Programming Tools IDE for INI programmer subteam
+
+> SNU Programming Tools IDE for ImageJ programmer subteam
+
+> SNU Programming Tools IDE for Inform 7 programmer subteam
+
+> SNU Programming Tools IDE for IronPython programmer subteam
+
+> SNU Programming Tools IDE for Io programmer subteam
+
+> SNU Programming Tools IDE for Isabelle programmer subteam
+
+> SNU Programming Tools IDE for J programmer subteam
+
+> SNU Programming Tools IDE for Java programmer subteam
+
+> SNU Programming Tools IDE for JavaScript programmer subteam
+
+> SNU Programming Tools IDE for JavaScript++ programmer subteam
+
+> SNU Programming Tools IDE for JScript programmer subteam
+
+> SNU Programming Tools IDE for JScript.NET programmer subteam
+
+> SNU Programming Tools IDE for Jinja programmer subteam
+
+> SNU Programming Tools IDE for JSON programmer subteam
+
+> SNU Programming Tools IDE for Julia programmer subteam
+
+> SNU Programming Tools IDE for Jupyter Notebook programmer subteam
+
+> SNU Programming Tools IDE for KiCad Layout programmer subteam
+
+> SNU Programming Tools IDE for Kotlin programmer subteam
+
+> SNU Programming Tools IDE for Lex programmer subteam
+
+> SNU Programming Tools IDE for Liquid programmer subteam
+
+> SNU Programming Tools IDE for LLVM programmer subteam
+
+> SNU Programming Tools IDE for Logtalk programmer subteam
+
+> SNU Programming Tools IDE for LOLCODE programmer subteam
+
+> SNU Programming Tools IDE for Lua programmer subteam
+
+> SNU Programming Tools IDE for M programmer subteam
+
+> SNU Programming Tools IDE for Mako programmer subteam
+
+> SNU Programming Tools IDE for Maple programmer subteam
+
+> SNU Programming Tools IDE for Mathematica programmer subteam
+
+> SNU Programming Tools IDE for MATLAB programmer subteam
+
+> SNU Programming Tools IDE for Max programmer subteam
+
+> SNU Programming Tools IDE for Mercury programmer subteam
+
+> SNU Programming Tools IDE for Meson programmer subteam
+
+> SNU Programming Tools IDE for Metal programmer subteam
+
+> SNU Programming Tools IDE for MLIR programmer subteam
+
+> SNU Programming Tools IDE for MoonScript programmer subteam
+
+> SNU Programming Tools IDE for NASL programmer subteam
+
+> SNU Programming Tools IDE for nesC programmer subteam
+
+> SNU Programming Tools IDE for NextFlow programmer subteam
+
+> SNU Programming Tools IDE for NGINX programmer subteam
+
+> SNU Programming Tools IDE for Nim programmer subteam
+
+> SNU Programming Tools IDE for Nix programmer subteam
+
+> SNU Programming Tools IDE for NSIS programmer subteam
+
+> SNU Programming Tools IDE for Objective-C programmer subteam
+
+> SNU Programming Tools IDE for Objective-C++ programmer subteam
+
+> SNU Programming Tools IDE for Objective-J programmer subteam
+
+> SNU Programming Tools IDE for OCAML programmer subteam
+
+> SNU Programming Tools IDE for Oberon programmer subteam
+
+> SNU Programming Tools IDE for OpenEdge ABL programmer subteam
+
+> SNU Programming Tools IDE for OpenQASM programmer subteam
+
+> SNU Programming Tools IDE for OpenSCAD programmer subteam
+
+> SNU Programming Tools IDE for Pascal programmer subteam
+
+> SNU Programming Tools IDE for Perl programmer subteam
+
+> SNU Programming Tools IDE for PHP programmer subteam
+
+> SNU Programming Tools IDE for PigLatin programmer subteam
+
+> SNU Programming Tools IDE for PowerShell programmer subteam
+
+> SNU Programming Tools IDE for PLSQL programmer subteam
+
+> SNU Programming Tools IDE for ProcessingJS programmer subteam
+
+> SNU Programming Tools IDE for Prolog programmer subteam
+
+> SNU Programming Tools IDE for Pug programmer subteam
+
+> SNU Programming Tools IDE for Puppet programmer subteam
+
+> SNU Programming Tools IDE for PureBasic programmer subteam
+
+> SNU Programming Tools IDE for Python programmer subteam
+
+> SNU Programming Tools IDE for Q# programmer subteam
+
+> SNU Programming Tools IDE for QMAKE programmer subteam
+
+> SNU Programming Tools IDE for QML programmer subteam
+
+> SNU Programming Tools IDE for R programmer subteam
+
+> SNU Programming Tools IDE for Racket programmer subteam
+
+> SNU Programming Tools IDE for Ragel programmer subteam
+
+> SNU Programming Tools IDE for Raku programmer subteam
+
+> SNU Programming Tools IDE for Reason programmer subteam
+
+> SNU Programming Tools IDE for REBOL programmer subteam
+
+> SNU Programming Tools IDE for ReScript programmer subteam
+
+> SNU Programming Tools IDE for Rexx programmer subteam
+
+> SNU Programming Tools IDE for Ruby programmer subteam
+
+> SNU Programming Tools IDE for Rust programmer subteam
+
+> SNU Programming Tools IDE for SaltStack programmer subteam
+
+> SNU Programming Tools IDE for Scala programmer subteam
+
+> SNU Programming Tools IDE for Scheme programmer subteam
+
+> SNU Programming Tools IDE for SciLab programmer subteam
+
+> SNU Programming Tools IDE for Sed programmer subteam
+
+> SNU Programming Tools IDE for Self programmer subteam
+
+> SNU Programming Tools IDE for Shaderlab programmer subteam
+
+> SNU Programming Tools IDE for Shell programmer subteam
+
+> SNU Programming Tools IDE for Singularity programmer subteam
+
+> SNU Programming Tools IDE for Smalltalk programmer subteam
+
+> SNU Programming Tools IDE for Solidity programmer subteam
+
+> SNU Programming Tools IDE for Starlark programmer subteam
+
+> SNU Programming Tools IDE for Stylus programmer subteam
+
+> SNU Programming Tools IDE for SuperCollider programmer subteam
+
+> SNU Programming Tools IDE for Svelte programmer subteam
+
+> SNU Programming Tools IDE for Seed7 programmer subteam
+
+> SNU Programming Tools IDE for Squeak programmer subteam
+
+> SNU Programming Tools IDE for Scratch programmer subteam
+
+> SNU Programming Tools IDE for Swift programmer subteam
+
+> SNU Programming Tools IDE for SWIG programmer subteam
+
+> SNU Programming Tools IDE for TeX programmer subteam
+
+> SNU Programming Tools IDE for Thrift programmer subteam
+
+> SNU Programming Tools IDE for Twig programmer subteam
+
+> SNU Programming Tools IDE for TypeScript programmer subteam
+
+> SNU Programming Tools IDE for UnrealScript programmer subteam
+
+> SNU Programming Tools IDE for V programmer subteam
+
+> SNU Programming Tools IDE for Vala programmer subteam
+
+> SNU Programming Tools IDE for VBA programmer subteam
+
+> SNU Programming Tools IDE for VBScript programmer subteam
+
+> SNU Programming Tools IDE for VB.NET programmer subteam
+
+> SNU Programming Tools IDE for VHDL programmer subteam
+
+> SNU Programming Tools IDE for Vim Script programmer subteam
+
+> SNU Programming Tools IDE for WebAssembly programmer subteam
+
+> SNU Programming Tools IDE for WikiText programmer subteam
+
+> SNU Programming Tools IDE for XML programmer subteam
+
+> SNU Programming Tools IDE for XQuery programmer subteam
+
+> SNU Programming Tools IDE for Yacc programmer subteam
+
+> SNU Programming Tools IDE for YAML programmer subteam
+
+> SNU Programming Tools IDE for Zig programmer subteam
+
+> SNU Programming Tools IDE for ideas subteam
+
+> SNU Programming Tools IDE for testing subteam
+
+> SNU Programming Tools IDE for PR subteam
+
+> SNU Programming Tools IDE for Documentation subteam
+
+> SNU Programming Tools IDE for Technical support subteam
+
+> SNU Programming Tools IDE for enhancements subteam
+
+> SNU Programming Tools IDE for graphic artists subteam
+
+Section incomplete
 
 ## FINF-DB team
 
@@ -738,6 +1151,500 @@ For now, I am going to start with 20 active subteams, and will expand as I go.
 
 > NUNIX enhancements subteam
 
+## Technical Comedy Team
+
+### Code distancing team
+
+> Code Distancing HTML scripting subteam
+
+> Code Distancing SGML scripting subteam
+
+> Code Distancing XML scripting subteam
+
+> Code Distancing CSS scripting subteam
+
+> Code Distancing LESS scripting subteam
+
+> Code Distancing SASS scripting subteam
+
+> Code Distancing Ada programmer subteam
+
+> Code Distancing Agda programmer subteam
+
+> Code Distancing ALGOL programmer subteam
+
+> Code Distancing ActionScript programmer subteam
+
+> Code Distancing AppleScript programmer subteam
+
+> Code Distancing AngelScript programmer subteam
+
+> Code Distancing ActionServerPages programmer subteam
+
+> Code Distancing ASP.NET programmer subteam
+
+> Code Distancing ANTLR programmer subteam
+
+> Code Distancing AutoIt programmer subteam
+
+> Code Distancing Assembly programmer subteam
+
+> Code Distancing AssemblyScript programmer subteam
+
+> Code Distancing Astro programmer subteam
+
+> Code Distancing Boo programmer subteam
+
+> Code Distancing 1C Enterprise programmer subteam
+
+> Code Distancing BibTeX programmer subteam
+
+> Code Distancing Batchfile programmer subteam
+
+> Code Distancing Ballerina programmer subteam
+
+> Code Distancing BitBake programmer subteam
+
+> Code Distancing Brainfuck programmer subteam
+
+> Code Distancing BrightScript programmer subteam
+
+> Code Distancing B programmer subteam
+
+> Code Distancing BSDL programmer subteam
+
+> Code Distancing C programmer subteam
+
+> Code Distancing C# programmer subteam
+
+> Code Distancing C++ programmer subteam
+
+> Code Distancing CAML programmer subteam
+
+> Code Distancing COBOL programmer subteam
+
+> Code Distancing CartoCSS programmer subteam
+
+> Code Distancing Crystal programmer subteam
+
+> Code Distancing Cython programmer subteam
+
+> Code Distancing Cap'n proto programmer subteam
+
+> Code Distancing Clojure programmer subteam
+
+> Code Distancing Cobra programmer subteam
+
+> Code Distancing CodeQL programmer subteam
+
+> Code Distancing Coq programmer subteam
+
+> Code Distancing CUDA programmer subteam
+
+> Code Distancing D programmer subteam
+
+> Code Distancing Dart programmer subteam
+
+> Code Distancing Dhall programmer subteam
+
+> Code Distancing E programmer subteam
+
+> Code Distancing Eiffel programmer subteam
+
+> Code Distancing EJS programmer subteam
+
+> Code Distancing Elixir programmer subteam
+
+> Code Distancing Elm programmer subteam
+
+> Code Distancing Emacs Lisp programmer subteam
+
+> Code Distancing Erlang programmer subteam
+
+> Code Distancing F# programmer subteam
+
+> Code Distancing Factor programmer subteam
+
+> Code Distancing Fancy programmer subteam
+
+> Code Distancing Fluent programmer subteam
+
+> Code Distancing FORTRAN programmer subteam
+
+> Code Distancing G-CODE programmer subteam
+
+> Code Distancing GAP programmer subteam
+
+> Code Distancing GDScript programmer subteam
+
+> Code Distancing Gherkin programmer subteam
+
+> Code Distancing GLSL programmer subteam
+
+> Code Distancing GNUPlot programmer subteam
+
+> Code Distancing Google Go programmer subteam
+
+> Code Distancing Go! programmer subteam
+
+> Code Distancing Gosu programmer subteam
+
+> Code Distancing Groff programmer subteam
+
+> Code Distancing Groovy programmer subteam
+
+> Code Distancing Hack programmer subteam
+
+> Code Distancing HAML programmer subteam
+
+> Code Distancing Handlebars programmer subteam
+
+> Code Distancing Haskell programmer subteam
+
+> Code Distancing Haxe programmer subteam
+
+> Code Distancing HCL programmer subteam
+
+> Code Distancing HiveQL programmer subteam
+
+> Code Distancing HLSL programmer subteam
+
+> Code Distancing IDL programmer subteam
+
+> Code Distancing Idris programmer subteam
+
+> Code Distancing Inno Setup programmer subteam
+
+> Code Distancing INI programmer subteam
+
+> Code Distancing ImageJ programmer subteam
+
+> Code Distancing Inform 7 programmer subteam
+
+> Code Distancing IronPython programmer subteam
+
+> Code Distancing Io programmer subteam
+
+> Code Distancing Isabelle programmer subteam
+
+> Code Distancing J programmer subteam
+
+> Code Distancing Java programmer subteam
+
+> Code Distancing JavaScript programmer subteam
+
+> Code Distancing JavaScript++ programmer subteam
+
+> Code Distancing JScript programmer subteam
+
+> Code Distancing JScript.NET programmer subteam
+
+> Code Distancing Jinja programmer subteam
+
+> Code Distancing JSON programmer subteam
+
+> Code Distancing Julia programmer subteam
+
+> Code Distancing Jupyter Notebook programmer subteam
+
+> Code Distancing KiCad Layout programmer subteam
+
+> Code Distancing Kotlin programmer subteam
+
+> Code Distancing Lex programmer subteam
+
+> Code Distancing Liquid programmer subteam
+
+> Code Distancing LLVM programmer subteam
+
+> Code Distancing Logtalk programmer subteam
+
+> Code Distancing LOLCODE programmer subteam
+
+> Code Distancing Lua programmer subteam
+
+> Code Distancing M programmer subteam
+
+> Code Distancing Mako programmer subteam
+
+> Code Distancing Maple programmer subteam
+
+> Code Distancing Mathematica programmer subteam
+
+> Code Distancing MATLAB programmer subteam
+
+> Code Distancing Max programmer subteam
+
+> Code Distancing Mercury programmer subteam
+
+> Code Distancing Meson programmer subteam
+
+> Code Distancing Metal programmer subteam
+
+> Code Distancing MLIR programmer subteam
+
+> Code Distancing MoonScript programmer subteam
+
+> Code Distancing NASL programmer subteam
+
+> Code Distancing nesC programmer subteam
+
+> Code Distancing NextFlow programmer subteam
+
+> Code Distancing NGINX programmer subteam
+
+> Code Distancing Nim programmer subteam
+
+> Code Distancing Nix programmer subteam
+
+> Code Distancing NSIS programmer subteam
+
+> Code Distancing Objective-C programmer subteam
+
+> Code Distancing Objective-C++ programmer subteam
+
+> Code Distancing Objective-J programmer subteam
+
+> Code Distancing OCAML programmer subteam
+
+> Code Distancing Oberon programmer subteam
+
+> Code Distancing OpenEdge ABL programmer subteam
+
+> Code Distancing OpenQASM programmer subteam
+
+> Code Distancing OpenSCAD programmer subteam
+
+> Code Distancing Pascal programmer subteam
+
+> Code Distancing Perl programmer subteam
+
+> Code Distancing PHP programmer subteam
+
+> Code Distancing PigLatin programmer subteam
+
+> Code Distancing PowerShell programmer subteam
+
+> Code Distancing PLSQL programmer subteam
+
+> Code Distancing ProcessingJS programmer subteam
+
+> Code Distancing Prolog programmer subteam
+
+> Code Distancing Pug programmer subteam
+
+> Code Distancing Puppet programmer subteam
+
+> Code Distancing PureBasic programmer subteam
+
+> Code Distancing Python programmer subteam
+
+> Code Distancing Q# programmer subteam
+
+> Code Distancing QMAKE programmer subteam
+
+> Code Distancing QML programmer subteam
+
+> Code Distancing R programmer subteam
+
+> Code Distancing Racket programmer subteam
+
+> Code Distancing Ragel programmer subteam
+
+> Code Distancing Raku programmer subteam
+
+> Code Distancing Reason programmer subteam
+
+> Code Distancing REBOL programmer subteam
+
+> Code Distancing ReScript programmer subteam
+
+> Code Distancing Rexx programmer subteam
+
+> Code Distancing Ruby programmer subteam
+
+> Code Distancing Rust programmer subteam
+
+> Code Distancing SaltStack programmer subteam
+
+> Code Distancing Scala programmer subteam
+
+> Code Distancing Scheme programmer subteam
+
+> Code Distancing SciLab programmer subteam
+
+> Code Distancing Sed programmer subteam
+
+> Code Distancing Self programmer subteam
+
+> Code Distancing Shaderlab programmer subteam
+
+> Code Distancing Shell programmer subteam
+
+> Code Distancing Singularity programmer subteam
+
+> Code Distancing Smalltalk programmer subteam
+
+> Code Distancing Solidity programmer subteam
+
+> Code Distancing Starlark programmer subteam
+
+> Code Distancing Stylus programmer subteam
+
+> Code Distancing SuperCollider programmer subteam
+
+> Code Distancing Svelte programmer subteam
+
+> Code Distancing Seed7 programmer subteam
+
+> Code Distancing Squeak programmer subteam
+
+> Code Distancing Scratch programmer subteam
+
+> Code Distancing Swift programmer subteam
+
+> Code Distancing SWIG programmer subteam
+
+> Code Distancing TeX programmer subteam
+
+> Code Distancing Thrift programmer subteam
+
+> Code Distancing Twig programmer subteam
+
+> Code Distancing TypeScript programmer subteam
+
+> Code Distancing UnrealScript programmer subteam
+
+> Code Distancing V programmer subteam
+
+> Code Distancing Vala programmer subteam
+
+> Code Distancing VBA programmer subteam
+
+> Code Distancing VBScript programmer subteam
+
+> Code Distancing VB.NET programmer subteam
+
+> Code Distancing VHDL programmer subteam
+
+> Code Distancing Vim Script programmer subteam
+
+> Code Distancing WebAssembly programmer subteam
+
+> Code Distancing WikiText programmer subteam
+
+> Code Distancing XML programmer subteam
+
+> Code Distancing XQuery programmer subteam
+
+> Code Distancing Yacc programmer subteam
+
+> Code Distancing YAML programmer subteam
+
+> Code Distancing Zig programmer subteam
+
+> Code Distancing ideas subteam
+
+> Code Distancing testing subteam
+
+> Code Distancing PR subteam
+
+> Code Distancing Documentation subteam
+
+> Code Distancing Technical support subteam
+
+> Code Distancing enhancements subteam
+
+> Code Distancing graphic artists subteam
+
+Section incomplete
+
+### New Years Tag team
+
+> New Years Tag HTML scripting subteam
+
+> New Years Tag SGML scripting subteam
+
+> New Years Tag XML scripting subteam
+
+> New Years Tag ideas subteam
+
+> New Years Tag testing subteam
+
+> New Years Tag PR subteam
+
+> New Years Tag Documentation subteam
+
+> New Years Tag Technical support subteam
+
+> New Years Tag enhancements subteam
+
+> New Years Tag graphic artists subteam
+
+### Branch ranch team
+
+> Branch Ranch Python programmer subteam
+
+> Branch Ranch ideas subteam
+
+> Branch Ranch testing subteam
+
+> Branch Ranch PR subteam
+
+> Branch Ranch Documentation subteam
+
+> Branch Ranch Technical support subteam
+
+> Branch Ranch enhancements subteam
+
+> Branch Ranch graphic artists subteam
+
+## BlueTooth team
+
+### BluPhone subteam
+
+> BluPhone Python programmer subteam
+
+> BluPhone Objective-C programmer subteam
+
+> BluPhone Swift programmer subteam
+
+> BluPhone Java programmer subteam
+
+> BluPhone testing subteam
+
+> BluPhone PR subteam
+
+> BluPhone Documentation subteam
+
+> BluPhone Technical support subteam
+
+> BluPhone enhancements subteam
+
+> BluPhone graphic artists subteam
+
+### Blue Dentures subteam
+
+> Blue Dentures Python programmer subteam
+
+> Blue Dentures Objective-C programmer subteam
+
+> Blue Dentures Swift programmer subteam
+
+> Blue Dentures Java programmer subteam
+
+> Blue Dentures testing subteam
+
+> Blue Dentures PR subteam
+
+> Blue Dentures Documentation subteam
+
+> Blue Dentures Technical support subteam
+
+> Blue Dentures enhancements subteam
+
+> Blue Dentures graphic artists subteam
+
 ## Management team
 
 > Technical support subteam
@@ -770,8 +1677,8 @@ For now, I am going to start with 20 active subteams, and will expand as I go.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2022 Tuesday, February 8th at 4:44 pm)`
+**File version:** `3 (2022 Tuesday, February 8th at 7:56 pm)`
 
-**Line count (Including blank lines and compiler line):** `778`
+**Line count (Including blank lines and compiler line):** `1,685`
 
 ***
