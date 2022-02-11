@@ -27,6 +27,8 @@ Want to join a team? Become a volunteer.
 
 For now, I am going to start with 20 active subteams, and will expand as I go.
 
+Note: you can be part of more than one team at a time
+
 Note to self: Do not maintain more than 20 teams as a starter amount. Expanding to 21-25 or higher is not recommended yet.
 
 <!-- Addition process
@@ -518,6 +520,44 @@ etc. - Needs work
 
 > > > NimbleBit Glossary graphic artists sub-microteam
 
+## Audio team
+
+### AudiBass manager
+
+> AudiBass Manager Python programmer subteam
+
+> AudiBass Manager C# programmer subteam
+
+> AudiBass Manager maintenance subteam
+
+> AudiBass Manager Enhancements subteam
+
+> AudiBass Manager Graphic Design subteam
+
+> AudiBass Manager PR subteam
+
+> AudiBass Manager Documentation subteam
+
+> AudiBass Manager Testing subteam
+
+###
+
+## Creative Malware team
+
+### Ucuntu subteam
+
+> Ucuntu Shell programmer subteam
+
+> Ucuntu Exploit subteam
+
+> Ucuntu advisory subteam
+
+> Ucuntu maintenance subteam
+
+> Ucuntu documentation subteam
+
+LIST MORE PROJECTS
+
 ## Team SNU
 
 ### SNU 2D
@@ -914,6 +954,20 @@ etc. - Needs work
 
 > SNU Programming Tools IDE for Zig programmer subteam
 
+> SNU Programming Tools IDE for Clean programmer subteam
+
+> SNU Programming Tools IDE for ML programmer subteam
+
+> SNU Programming Tools IDE for Hope programmer subteam
+
+> SNU Programming Tools IDE for Epigraph programmer subteam
+
+> SNU Programming Tools IDE for KRC programmer subteam
+
+> SNU Programming Tools IDE for Orwell programmer subteam
+
+> SNU Programming Tools IDE for GetText programmer subteam
+
 > SNU Programming Tools IDE for ideas subteam
 
 > SNU Programming Tools IDE for testing subteam
@@ -944,14 +998,93 @@ Section incomplete
 
 ## Library team
 
-> ProTraApp subteam
+### ProTraApp subteam
 
-> ShareBoxLIB subteam
+> ProTraApp Python programmer subteam
 
+> ProTraApp Objective-C programmer subteam
+
+> ProTraApp Swift programmer subteam
+
+> ProTraApp C# programmer subteam
+
+> ProTraApp C programmer subteam
+
+> ProTraApp C++ programmer subteam
+
+> ProTraApp Java programmer subteam
+
+> ProTraApp Kotlin programmer subteam
+
+> ProTraApp documentation subteam
+
+> ProTraApp maintenance subteam
+
+> ProTraApp enhancements subteam
+
+> ProTraApp graphic design subteam
+
+> ProTraApp testing subteam
+
+### ShareBoxLIB subteam
+
+> ShareBoxLIB JavaScript programmer subteam
+
+> ShareBoxLIB CSS writer subteam
+
+> ShareBoxLIB Less writer subteam
+
+> ShareBoxLIB QML programmer subteam
+
+> ShareBoxLIB Python programmer subteam
+
+> ShareBoxLIB PHP programmer subteam
+
+> ShareBoxLIB Ruby programmer subteam
+
+> ShareBoxLIB HandleBars programmer subteam
+
+> ShareBoxLIB Pug programmer subteam
+
+> ShareBoxLIB Mustache programmer subteam
+
+> ShareBoxLIB Documentation subteam
+
+> ShareBoxLIB Enhancements subteam
+
+> ShareBoxLIB graphic design subteam
+
+> ShareBoxLIB testing subteam
+
+> ShareBoxLIB Social media subteam
+
+## Plugin team
+
+### Vim Autoscroller subteam
+
+> Vim AutoScroller Vim Script programmer subteam
+
+> Vim AutoScroller documentation subteam
+
+> Vim AutoScroller maintenance subteam
+
+> Vim AutoScroller testing subteam
 
 ## Mathematics team
 
-> UCALC subteam
+### UCALC subteam
+
+> UCALC Python programmer subteam
+
+> UCALC Graphic design subteam
+
+> UCALC Testing subteam
+
+> UCALC Enhancements subteam
+
+> UCALC Mathematics subteam
+
+> UCALC Maintenance subteam
 
 ## OS team
 
@@ -1543,6 +1676,20 @@ Section incomplete
 
 > Code Distancing Zig programmer subteam
 
+> Code Distancing Clean programmer subteam
+
+> Code Distancing ML programmer subteam
+
+> Code Distancing Hope programmer subteam
+
+> Code Distancing Epigraph programmer subteam
+
+> Code Distancing KRC programmer subteam
+
+> Code Distancing Orwell programmer subteam
+
+> Code Distancing GetText programmer subteam
+
 > Code Distancing ideas subteam
 
 > Code Distancing testing subteam
@@ -1677,8 +1824,8 @@ Section incomplete
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2022 Tuesday, February 8th at 7:56 pm)`
+**File version:** `4 (2022 Thursday, February 10th at 7:23 pm)`
 
-**Line count (Including blank lines and compiler line):** `1,685`
+**Line count (Including blank lines and compiler line):** `1,832`
 
 ***
