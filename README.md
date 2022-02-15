@@ -35,6 +35,145 @@ Note to self: Do not maintain more than 20 teams as a starter amount. Expanding 
 
 ---
 
+Left to add:
+
+TrueTorrent
+Advanced Eye Chart
+<s>AGRAN-lang
+Easy-E IDE
+Dropped Text
+Matrix-lang
+DIFFicult</s>
+Bitchecker-dev
+Bootdown-dev
+Branch ranch
+Browsniffica
+CH3-c-K
+ChromaTagsForGit
+Coloress
+Compubunker
+Compunker
+CompuSmell
+CottonTree
+Count Mausoleum
+Cross Compat XU
+Cyborg System Monitor
+Dentalbar Whitetooth Pro
+DMail
+DOS Buddy
+Engineer Superdesk
+FreeGenie
+GeniBlock
+GitManager
+Gitty-Images
+GK Keyboard
+Go!Gle engine
+Goodbye world program
+GratyBot
+GuineaMyrickLifeArchive
+Halloween Assistant
+Hatium
+Health Meter Maximum
+Hospital Defender
+HT Messenger
+HX Template
+Hyper Realistic Farm Simulator
+IGNORE file
+Its-time-to-cut-WideVine DRM
+Keyoff
+KeyStroke
+LightSpeedRelayTechnologies
+LinkLax
+MadLibby
+Medical Ethics
+Meme Machine 2019
+MicroWave
+Myrick Family Archive
+NexxFetch
+NimbleBit Fan Club
+Nost Gia OS
+Nostalgia project
+Numeric Liberation Front
+NUNIX
+OpenGovernment
+OuterVM
+OuterVM Mouse
+OVPVMO site
+Password Generator Ultimate
+Perl Harbor
+PFOSS Initiative
+PhD in PHP
+PFOSS Initiative
+PhoneHome
+Pri-Fiy
+Project1k1
+PVZ Custom
+PyVM
+Ratiyo
+README Desktop Library
+RNAssistant
+RubbleRobot
+S Desktop Environment
+SafeT
+ScreenTeX
+ScriptKidd ToolKit
+AirBnB
+Anime
+Biology
+Blocklist
+Botany
+Discord
+FanGames
+FoodIndex
+Ko-Fi
+Patreon
+Marine Biology
+Metric System
+Quora
+Robotics
+Wikipedia
+Self-care Bot
+SimZonns
+Skeuowie
+Slick license manager
+Snapshot version control system
+StartFsck/WinFsck
+What the FLoC
+WebNetPlus
+WakeNote
+VoiceGod
+VOI Manor
+Virtual Home
+Virtual-VHS
+Virg.io
+V-Reshot
+UTPM
+UShortcut Pro
+URLL specification
+uOffice
+UltraSwitch
+UltraCompass
+Ultra Image Studio
+UI Tour Guide
+uDonate
+TuxBot Operating System
+TrueEEG
+TrueCalm
+Timeout ToolKit
+The offline experience
+The existential index
+The dystopian dictionary
+Techlaration
+Talla Browser
+TalkScript
+Super Power Laptops
+SociaShame
+SourceBase
+AI
+Various SNU projects
+
+---
+
 ## Index
 
 [01.0 - Articles and documentation team](#Articles-and-documentation-team)
@@ -2318,6 +2457,72 @@ Section incomplete
 
 No other standards to list at the moment.
 
+## Special IDE team
+
+### Easy-E IDE subteam
+
+> EASY-E IDE maintenance subteam
+
+> EASY-E IDE enhancements subteam
+
+> EASY-E IDE PR subteam
+
+> EASY-E IDE Documentation subteam
+
+> EASY-E IDE E programmer subteam
+
+> EASY-E IDE Eiffel programmer subteam
+
+### DIFFicult subteam
+
+> DIFFicult IDE maintenance subteam
+
+> DIFFicult IDE enhancements subteam
+
+> DIFFicult IDE PR subteam
+
+> DIFFicult IDE Documentation subteam
+
+> DIFFicult IDE C programmer subteam
+
+> DIFFicult IDE D programmer subteam
+
+> DIFFicult IDE R programmer subteam
+
+> DIFFicult IDE Diff programmer subteam
+
+## Computer language team
+
+### AGRAN language subteam
+
+Currently abandoned
+
+> AGRAN maintenance subteam
+
+> AGRAN enhancements subteam
+
+### Matrix language subteam
+
+Currently abandoned
+
+> Matrix-lang maintenance subteam
+
+> Matrix-lang enhancements subteam
+
+### Dropped text language subteam
+
+> DROTEX maintenance subteam
+
+> DROTEX enhancements subteam
+
+> DROTEX research subteam
+
+> DROTEX documentation subteam
+
+> DROTEX Python programmer subteam
+
+> DROTEX PR subteam
+
 ## Legacy software team
 
 ### 9x Internet subteam
@@ -2382,8 +2587,8 @@ No other standards to list at the moment.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2022 Monday, February 14th at 5:42 pm)`
+**File version:** `6 (2022 Monday, February 14th at 6:52 pm)`
 
-**Line count (Including blank lines and compiler line):** `2,390`
+**Line count (Including blank lines and compiler line):** `2,595`
 
 ***
