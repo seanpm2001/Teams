@@ -19,6 +19,8 @@ My workflow will be split into sets of teams, volunteers who want to work on spe
 
 - [ ] Forums
 
+---
+
 **Notes:**
 
 Being in a subteam or microteam is not a bad thing at all. A subteam is simply a subset of the team, and a microteam is a subset of a subset of a team. A sub-micro team is a subset of a subset of a subset of a team. Regardless, you will always be part of a team.
@@ -30,6 +32,48 @@ For now, I am going to start with 20 active subteams, and will expand as I go.
 Note: you can be part of more than one team at a time
 
 Note to self: Do not maintain more than 20 teams as a starter amount. Expanding to 21-25 or higher is not recommended yet.
+
+---
+
+## Index
+
+[01.0 - Articles and documentation team](#Articles-and-documentation-team)
+
+[02.0 - Video Games team](#Video-Games-team)
+
+> [02.1 - Minigame subteam](#Minigame-subteam)
+
+> [02.2 - Video Game Accessory subteam](#Video-Game-Accessory-subteam)
+
+[03.0 - Audio team](#Audio-team)
+
+[04.0 - General security team](#General-security-team)
+
+[05.0 - Creative Malware team](#Creative-Malware-team)
+
+[06.0 - Team SNU](#Team-SNU)
+
+[07.0 - LIBrary team](#LIBrary-team)
+
+[08.0 - Plugins team](#Plugins-team)
+
+[09.0 - Mathematics team](#Mathematics-team)
+
+[10.0 - OS (Operating System) team](#OS-team)
+
+[11.0 - Technical comedy (joke program) team](#Technical-comedy-team)
+
+[12.0 - BlueTooth team](#BlueTooth-team)
+
+[13.0 - Management team](#Management-team)
+
+[14.0 - Standards team](#Standards-team)
+
+[15.0 - Concept team](#Concept-team)
+
+[16.0 - Hardware team](#Hardware-team)
+
+---
 
 <!-- Addition process
 Gaming - Good
@@ -456,9 +500,57 @@ etc. - Needs work
 
 #### Minigame subteam
 
-> > 4096 microteam
+##### 4096 microteam
 
-> > FBI Roleplay Simulator subteam
+> > > 4096 JavaScript programmer sub-microteam
+
+> > > 4096 Python programmer sub-microteam
+
+> > > 4096 Java programmer sub-microteam
+
+> > > 4096 Kotlin programmer sub-microteam
+
+> > > 4096 C++ programmer sub-microteam
+
+> > > 4096 Testing sub-microteam
+
+> > > 4096 PR sub-microteam
+
+> > > 4096 Documentation sub-microteam
+
+> > > 4096 Enhancements sub-microteam
+
+> > > 4096 Graphic Design sub-microteam
+
+> > > 4096 Maintenance sub-microteam
+
+> > > 4096 Security sub-microteam
+
+##### FBI Roleplay Simulator microteam
+
+**Age barrier:** 18+
+
+Rating M for mature
+
+Contains sexual themes and swearing
+
+**Legal disclaimer:** this product is not endorsed or affiliated with the United States of America: Federal Bureau of Investigation. It is used as a humorous game, and falls under fair use.
+
+> > > FBI RP simulator Python programmer sub-microteam
+
+> > > FBI RP simulator Testing sub-microteam
+
+> > > FBI RP simulator PR sub-microteam
+
+> > > FBI RP simulator Documentation sub-microteam
+
+> > > FBI RP simulator Enhancements sub-microteam
+
+> > > FBI RP simulator Graphic Design sub-microteam
+
+> > > FBI RP simulator Maintenance sub-microteam
+
+> > > FBI RP simulator Security sub-microteam
 
 #### Game accessory subteam
 
@@ -476,6 +568,10 @@ etc. - Needs work
 
 > > > Bosky enhancements sub-microteam
 
+> > > Bosky maintenance sub-microteam
+
+> > > Bosky security sub-microteam
+
 > > > Bosky graphic artists sub-microteam
 
 ##### Prestige Preview microteam
@@ -487,6 +583,10 @@ etc. - Needs work
 > > > Prestige Preview PR sub-microteam
 
 > > > Prestige Preview Documentation sub-microteam
+
+> > > Prestige Preview Maintenance sub-microteam
+
+> > > Prestige Preview Security sub-microteam
 
 > > > Prestige Preview Technical support sub-microteam
 
@@ -509,6 +609,10 @@ etc. - Needs work
 > > > Portal Voice Assistant enhancements sub-microteam
 
 > > > Portal Voice Assistant graphic artists sub-microteam
+
+> > > Portal Voice Assistant Maintenance sub-microteam
+
+> > > Portal Voice Assistant Security sub-microteam
 
 ##### NimbleBit Glossary microteam
 
@@ -540,7 +644,179 @@ etc. - Needs work
 
 > AudiBass Manager Testing subteam
 
-###
+> AudiBass Manager Security subteam
+
+> AudiBass Manager Tech Support subteam
+
+> AudiBass Manager MacOS port maintainer subteam
+
+> AudiBass Manager Windows NT port maintainer subteam
+
+> AudiBass Manager Debian Linux port maintainer subteam
+
+> AudiBass Manager Gentoo Linux port maintainer subteam
+
+> AudiBass Manager Arch Linux port maintainer subteam
+
+> AudiBass Manager Red Hat Linux port maintainer subteam
+
+### SeansAudioDB team
+
+> SeansAudioDB Wiki subteam
+
+> SeansAudioDB enhancements subteam
+
+> SeansAudioDB HTML5 web developer subteam
+
+> SeansAudioDB Security subteam
+
+> SeansAudioDB Maintenance subteam
+
+> SeansAudioDB Testing subteam
+
+> SeansAudioDB Graphic Design subteam
+
+### SWAVE Starter team
+
+> SWAVE Starter Rust programmer subteam
+
+> SWAVE Starter Erlang programmer subteam
+
+> SWAVE Starter CSound programmer subteam
+
+> SWAVE Starter C++ programmer subteam
+
+> SWAVE Starter Shell programmer subteam
+
+> SWAVE Starter MacOS port maintainer subteam
+
+> SWAVE Starter Windows NT port maintainer subteam
+
+> SWAVE Starter Debian Linux port maintainer subteam
+
+> SWAVE Starter Gentoo Linux port maintainer subteam
+
+> SWAVE Starter Arch Linux port maintainer subteam
+
+> SWAVE Starter Red Hat Linux port maintainer subteam
+
+> SWAVE Starter audio subteam
+
+> SWAVE Starter maintenance subteam
+
+> SWAVE Starter Testing subteam
+
+> SWAVE Starter Graphic Design subteam
+
+> SWAVE Starter Wiki subteam
+
+> SWAVE Starter enhancements subteam
+
+> SWAVE Starter Security subteam
+
+> SWAVE Starter Tech support subteam
+
+> SWAVE Starter PR subteam
+
+## General Security team
+
+### AdBool subteam
+
+> AdBool JavaScript programmer subteam
+
+> AdBool PHP programmer subteam
+
+> AdBool Maintenance subteam
+
+> AdBool PR subteam
+
+> AdBool Enhancements subteam
+
+> AdBool Security subteam
+
+> AdBool Testing subteam
+
+> AdBool Wiki subteam
+
+> AdBool Maintenance subteam
+
+> AdBool Tech Support subteam
+
+> AdBool MacOS port maintainer subteam
+
+> AdBool Windows NT port maintainer subteam
+
+> AdBool Debian Linux port maintainer subteam
+
+> AdBool Gentoo Linux port maintainer subteam
+
+> AdBool Arch Linux port maintainer subteam
+
+> AdBool Red Hat Linux port maintainer subteam
+
+### Linux Defender subteam
+
+> Linux Defender Shell programming team
+
+> Linux Defender C programming subteam
+
+> Linux Defender documentation subteam
+
+> Linux Defender security subteam
+
+> Linux Defender testing subteam
+
+> Linux Defender malware testing subteam
+
+> Linux Defender maintenance subteam
+
+> Linux Defender Enhancements subteam
+
+> Linux Defender Wiki subteam
+
+> Linux Defender PR subteam
+
+> Linux Defender Android port maintainer subteam
+
+> Linux Defender Ubuntu port maintainer subteam
+
+> Linux Defender RaspbianOS/Raspberry Pi OS port maintainer subteam
+
+> Linux Defender Debian Linux port maintainer subteam
+
+> Linux Defender Gentoo Linux port maintainer subteam
+
+> Linux Defender Arch Linux port maintainer subteam
+
+> Linux Defender Red Hat Linux port maintainer subteam
+
+### YKDefender
+
+> YKDefender Shell programming subteam
+
+> YKDefender Batchfile programming subteam
+
+> YKDefender C programmer subteam
+
+> YKDefender C++ programmer subteam
+
+> YKDefender VM developer
+
+> YKDefender Core developer
+
+> YKDefender Windows 9x maintenance team
+
+> YKDefender x86 Linux maintenance subteam
+
+> YKDefender Testing team
+
+> YKDefender general maintenance subteam
+
+> YKDefender Enhancements subteam
+
+> YKDefender Wiki subteam
+
+> YKDefender PR subteam
 
 ## Creative Malware team
 
@@ -560,429 +836,595 @@ LIST MORE PROJECTS
 
 ## Team SNU
 
+### SNU Dimensional converter subteam
+
+> SNU Dimensional Converter Python programmer subteam
+
+> SNU Dimensional Converter 0D mode testing subteam
+
+> SNU Dimensional Converter 1D mode testing subteam
+
+> SNU Dimensional Converter 2D mode testing subteam
+
+> SNU Dimensional Converter 3D mode testing subteam
+
+> SNU Dimensional Converter 4D mode testing subteam
+
+> SNU Dimensional Converter Maintenance
+
+> SNU Dimensional Converter Enhancements subteam
+
+> SNU Dimensional Converter Security subteam
+
+> SNU Dimensional Converter PR subteam
+
+### SNU 0D
+
+> SNU 0D mode maintenance subteam
+
+> SNU 0D mode HTML writer subteam
+
+> SNU 0D mode enhancements subteam
+
+### SNU 1D
+
 ### SNU 2D
 
-#### SNU Accessibility subteam
+#### SNU 2D Accessibility subteam
 
-#### SNU Programming tools subteam
 
-> SNU Programming Tools IDE for HTML scripting subteam
+#### SNU 2D About subteam
 
-> SNU Programming Tools IDE for SGML scripting subteam
 
-> SNU Programming Tools IDE for XML scripting subteam
+#### SNU 2D Update log subteam
 
-> SNU Programming Tools IDE for CSS scripting subteam
 
-> SNU Programming Tools IDE for LESS scripting subteam
+#### SNU 2D Developer log subteam
 
-> SNU Programming Tools IDE for SASS scripting subteam
 
-> SNU Programming Tools IDE for Ada programmer subteam
+#### SNU 2D Ideaboard subteam
 
-> SNU Programming Tools IDE for Agda programmer subteam
 
-> SNU Programming Tools IDE for ALGOL programmer subteam
+#### SNU 2D CardStack subteam
 
-> SNU Programming Tools IDE for ActionScript programmer subteam
 
-> SNU Programming Tools IDE for AppleScript programmer subteam
+#### SNU 2D TableTop GameHouse subteam
 
-> SNU Programming Tools IDE for AngelScript programmer subteam
 
-> SNU Programming Tools IDE for ActionServerPages programmer subteam
+#### SNU 2D Legends of the Internet subteam
 
-> SNU Programming Tools IDE for ASP.NET programmer subteam
 
-> SNU Programming Tools IDE for ANTLR programmer subteam
+#### SNU 2D Video subteam
 
-> SNU Programming Tools IDE for AutoIt programmer subteam
 
-> SNU Programming Tools IDE for Assembly programmer subteam
+#### SNU 2D Software center subteam
 
-> SNU Programming Tools IDE for AssemblyScript programmer subteam
 
-> SNU Programming Tools IDE for Astro programmer subteam
+#### SNU 2D Universe subteam
 
-> SNU Programming Tools IDE for Boo programmer subteam
 
-> SNU Programming Tools IDE for 1C Enterprise programmer subteam
+#### SNU 2D YouTube mode subteam
 
-> SNU Programming Tools IDE for BibTeX programmer subteam
 
-> SNU Programming Tools IDE for Batchfile programmer subteam
+#### SNU 2D BrowserNose subteam
 
-> SNU Programming Tools IDE for Ballerina programmer subteam
 
-> SNU Programming Tools IDE for BitBake programmer subteam
+#### SNU 2D Porn subteam
 
-> SNU Programming Tools IDE for Brainfuck programmer subteam
 
-> SNU Programming Tools IDE for BrightScript programmer subteam
+#### SNU 2D Erotica subteam
 
-> SNU Programming Tools IDE for B programmer subteam
 
-> SNU Programming Tools IDE for BSDL programmer subteam
+#### SNU 2D Questionarium subteam
 
-> SNU Programming Tools IDE for C programmer subteam
 
-> SNU Programming Tools IDE for C# programmer subteam
+#### SNU 2D Wiki subteam
 
-> SNU Programming Tools IDE for C++ programmer subteam
 
-> SNU Programming Tools IDE for CAML programmer subteam
+#### SNU 2D Nitter Mode subteam
 
-> SNU Programming Tools IDE for COBOL programmer subteam
 
-> SNU Programming Tools IDE for CartoCSS programmer subteam
+#### SNU 2D Video theatre subteam
 
-> SNU Programming Tools IDE for Crystal programmer subteam
 
-> SNU Programming Tools IDE for Cython programmer subteam
+#### SNU 2D Legal center subteam
 
-> SNU Programming Tools IDE for Cap'n proto programmer subteam
 
-> SNU Programming Tools IDE for Clojure programmer subteam
+#### SNU 2D Terror Bay subteam
 
-> SNU Programming Tools IDE for Cobra programmer subteam
 
-> SNU Programming Tools IDE for CodeQL programmer subteam
+#### SNU 2D TV subteam
 
-> SNU Programming Tools IDE for Coq programmer subteam
 
-> SNU Programming Tools IDE for CUDA programmer subteam
+#### SNU 2D BrowserNose subteam
 
-> SNU Programming Tools IDE for D programmer subteam
 
-> SNU Programming Tools IDE for Dart programmer subteam
+#### SNU 2D FontMill subteam
 
-> SNU Programming Tools IDE for Dhall programmer subteam
 
-> SNU Programming Tools IDE for E programmer subteam
+#### SNU 2D Public subteam
 
-> SNU Programming Tools IDE for Eiffel programmer subteam
 
-> SNU Programming Tools IDE for EJS programmer subteam
+#### SNU 2D Internet subteam
 
-> SNU Programming Tools IDE for Elixir programmer subteam
 
-> SNU Programming Tools IDE for Elm programmer subteam
+#### SNU 2D P2P section subteam
 
-> SNU Programming Tools IDE for Emacs Lisp programmer subteam
 
-> SNU Programming Tools IDE for Erlang programmer subteam
+#### SNU 2D Privacy subteam
 
-> SNU Programming Tools IDE for F# programmer subteam
 
-> SNU Programming Tools IDE for Factor programmer subteam
+#### SNU 2D DOM subteam
 
-> SNU Programming Tools IDE for Fancy programmer subteam
 
-> SNU Programming Tools IDE for Fluent programmer subteam
+#### SNU 2D LooPG subteam
 
-> SNU Programming Tools IDE for FORTRAN programmer subteam
 
-> SNU Programming Tools IDE for G-CODE programmer subteam
+#### SNU 2D Protest ToolKit subteam
 
-> SNU Programming Tools IDE for GAP programmer subteam
 
-> SNU Programming Tools IDE for GDScript programmer subteam
+#### SNU 2D Public Snapshots subteam
 
-> SNU Programming Tools IDE for Gherkin programmer subteam
 
-> SNU Programming Tools IDE for GLSL programmer subteam
+#### SNU 2D Search subteam
 
-> SNU Programming Tools IDE for GNUPlot programmer subteam
 
-> SNU Programming Tools IDE for Google Go programmer subteam
+#### SNU 2D PlayBack Settings subteam
 
-> SNU Programming Tools IDE for Go! programmer subteam
 
-> SNU Programming Tools IDE for Gosu programmer subteam
+#### SNU 2D Rules of the Internet subteam
 
-> SNU Programming Tools IDE for Groff programmer subteam
 
-> SNU Programming Tools IDE for Groovy programmer subteam
+#### SNU 2D Snapshot Tool subteam
 
-> SNU Programming Tools IDE for Hack programmer subteam
 
-> SNU Programming Tools IDE for HAML programmer subteam
+#### SNU 2D Internet Front subteam
 
-> SNU Programming Tools IDE for Handlebars programmer subteam
 
-> SNU Programming Tools IDE for Haskell programmer subteam
+#### SNU 2D Account subteam
 
-> SNU Programming Tools IDE for Haxe programmer subteam
 
-> SNU Programming Tools IDE for HCL programmer subteam
+#### SNU 2D Mascot center subteam
 
-> SNU Programming Tools IDE for HiveQL programmer subteam
 
-> SNU Programming Tools IDE for HLSL programmer subteam
+#### SNU 2D Government subteam
 
-> SNU Programming Tools IDE for IDL programmer subteam
 
-> SNU Programming Tools IDE for Idris programmer subteam
+#### SNU 2D P2P subteam
 
-> SNU Programming Tools IDE for Inno Setup programmer subteam
 
-> SNU Programming Tools IDE for INI programmer subteam
+#### SNU 2D Modes subteam
 
-> SNU Programming Tools IDE for ImageJ programmer subteam
 
-> SNU Programming Tools IDE for Inform 7 programmer subteam
+#### SNU 2D PFOSS Exchange subteam
 
-> SNU Programming Tools IDE for IronPython programmer subteam
 
-> SNU Programming Tools IDE for Io programmer subteam
+#### SNU 2D Privacy initiative subteam
 
-> SNU Programming Tools IDE for Isabelle programmer subteam
 
-> SNU Programming Tools IDE for J programmer subteam
+#### SNU 2D Programming tools subteam
 
-> SNU Programming Tools IDE for Java programmer subteam
+> SNU 2D Programming Tools IDE for HTML scripting subteam
 
-> SNU Programming Tools IDE for JavaScript programmer subteam
+> SNU 2D Programming Tools IDE for SGML scripting subteam
 
-> SNU Programming Tools IDE for JavaScript++ programmer subteam
+> SNU 2D Programming Tools IDE for XML scripting subteam
 
-> SNU Programming Tools IDE for JScript programmer subteam
+> SNU 2D Programming Tools IDE for CSS scripting subteam
 
-> SNU Programming Tools IDE for JScript.NET programmer subteam
+> SNU 2D Programming Tools IDE for LESS scripting subteam
 
-> SNU Programming Tools IDE for Jinja programmer subteam
+> SNU 2D Programming Tools IDE for SASS scripting subteam
 
-> SNU Programming Tools IDE for JSON programmer subteam
+> SNU 2D Programming Tools IDE for Ada programmer subteam
 
-> SNU Programming Tools IDE for Julia programmer subteam
+> SNU 2D Programming Tools IDE for Agda programmer subteam
 
-> SNU Programming Tools IDE for Jupyter Notebook programmer subteam
+> SNU 2D Programming Tools IDE for ALGOL programmer subteam
 
-> SNU Programming Tools IDE for KiCad Layout programmer subteam
+> SNU 2D Programming Tools IDE for ActionScript programmer subteam
 
-> SNU Programming Tools IDE for Kotlin programmer subteam
+> SNU 2D Programming Tools IDE for AppleScript programmer subteam
 
-> SNU Programming Tools IDE for Lex programmer subteam
+> SNU 2D Programming Tools IDE for AngelScript programmer subteam
 
-> SNU Programming Tools IDE for Liquid programmer subteam
+> SNU 2D Programming Tools IDE for ActionServerPages programmer subteam
 
-> SNU Programming Tools IDE for LLVM programmer subteam
+> SNU 2D Programming Tools IDE for ASP.NET programmer subteam
 
-> SNU Programming Tools IDE for Logtalk programmer subteam
+> SNU 2D Programming Tools IDE for ANTLR programmer subteam
 
-> SNU Programming Tools IDE for LOLCODE programmer subteam
+> SNU 2D Programming Tools IDE for AutoIt programmer subteam
 
-> SNU Programming Tools IDE for Lua programmer subteam
+> SNU 2D Programming Tools IDE for Assembly programmer subteam
 
-> SNU Programming Tools IDE for M programmer subteam
+> SNU 2D Programming Tools IDE for AssemblyScript programmer subteam
 
-> SNU Programming Tools IDE for Mako programmer subteam
+> SNU 2D Programming Tools IDE for Astro programmer subteam
 
-> SNU Programming Tools IDE for Maple programmer subteam
+> SNU 2D Programming Tools IDE for Boo programmer subteam
 
-> SNU Programming Tools IDE for Mathematica programmer subteam
+> SNU 2D Programming Tools IDE for 1C Enterprise programmer subteam
 
-> SNU Programming Tools IDE for MATLAB programmer subteam
+> SNU 2D Programming Tools IDE for BibTeX programmer subteam
 
-> SNU Programming Tools IDE for Max programmer subteam
+> SNU 2D Programming Tools IDE for Batchfile programmer subteam
 
-> SNU Programming Tools IDE for Mercury programmer subteam
+> SNU 2D Programming Tools IDE for Ballerina programmer subteam
 
-> SNU Programming Tools IDE for Meson programmer subteam
+> SNU 2D Programming Tools IDE for BitBake programmer subteam
 
-> SNU Programming Tools IDE for Metal programmer subteam
+> SNU 2D Programming Tools IDE for Brainfuck programmer subteam
 
-> SNU Programming Tools IDE for MLIR programmer subteam
+> SNU 2D Programming Tools IDE for BrightScript programmer subteam
 
-> SNU Programming Tools IDE for MoonScript programmer subteam
+> SNU 2D Programming Tools IDE for B programmer subteam
 
-> SNU Programming Tools IDE for NASL programmer subteam
+> SNU 2D Programming Tools IDE for BSDL programmer subteam
 
-> SNU Programming Tools IDE for nesC programmer subteam
+> SNU 2D Programming Tools IDE for C programmer subteam
 
-> SNU Programming Tools IDE for NextFlow programmer subteam
+> SNU 2D Programming Tools IDE for C# programmer subteam
 
-> SNU Programming Tools IDE for NGINX programmer subteam
+> SNU 2D Programming Tools IDE for C++ programmer subteam
 
-> SNU Programming Tools IDE for Nim programmer subteam
+> SNU 2D Programming Tools IDE for CAML programmer subteam
 
-> SNU Programming Tools IDE for Nix programmer subteam
+> SNU 2D Programming Tools IDE for COBOL programmer subteam
 
-> SNU Programming Tools IDE for NSIS programmer subteam
+> SNU 2D Programming Tools IDE for CartoCSS programmer subteam
 
-> SNU Programming Tools IDE for Objective-C programmer subteam
+> SNU 2D Programming Tools IDE for Crystal programmer subteam
 
-> SNU Programming Tools IDE for Objective-C++ programmer subteam
+> SNU 2D Programming Tools IDE for Cython programmer subteam
 
-> SNU Programming Tools IDE for Objective-J programmer subteam
+> SNU 2D Programming Tools IDE for Cap'n proto programmer subteam
 
-> SNU Programming Tools IDE for OCAML programmer subteam
+> SNU 2D Programming Tools IDE for Clojure programmer subteam
 
-> SNU Programming Tools IDE for Oberon programmer subteam
+> SNU 2D Programming Tools IDE for Cobra programmer subteam
 
-> SNU Programming Tools IDE for OpenEdge ABL programmer subteam
+> SNU 2D Programming Tools IDE for CodeQL programmer subteam
 
-> SNU Programming Tools IDE for OpenQASM programmer subteam
+> SNU 2D Programming Tools IDE for Coq programmer subteam
 
-> SNU Programming Tools IDE for OpenSCAD programmer subteam
+> SNU 2D Programming Tools IDE for CUDA programmer subteam
 
-> SNU Programming Tools IDE for Pascal programmer subteam
+> SNU 2D Programming Tools IDE for D programmer subteam
 
-> SNU Programming Tools IDE for Perl programmer subteam
+> SNU 2D Programming Tools IDE for Dart programmer subteam
 
-> SNU Programming Tools IDE for PHP programmer subteam
+> SNU 2D Programming Tools IDE for Dhall programmer subteam
 
-> SNU Programming Tools IDE for PigLatin programmer subteam
+> SNU 2D Programming Tools IDE for E programmer subteam
 
-> SNU Programming Tools IDE for PowerShell programmer subteam
+> SNU 2D Programming Tools IDE for Eiffel programmer subteam
 
-> SNU Programming Tools IDE for PLSQL programmer subteam
+> SNU 2D Programming Tools IDE for EJS programmer subteam
 
-> SNU Programming Tools IDE for ProcessingJS programmer subteam
+> SNU 2D Programming Tools IDE for Elixir programmer subteam
 
-> SNU Programming Tools IDE for Prolog programmer subteam
+> SNU 2D Programming Tools IDE for Elm programmer subteam
 
-> SNU Programming Tools IDE for Pug programmer subteam
+> SNU 2D Programming Tools IDE for Emacs Lisp programmer subteam
 
-> SNU Programming Tools IDE for Puppet programmer subteam
+> SNU 2D Programming Tools IDE for Erlang programmer subteam
 
-> SNU Programming Tools IDE for PureBasic programmer subteam
+> SNU 2D Programming Tools IDE for F# programmer subteam
 
-> SNU Programming Tools IDE for Python programmer subteam
+> SNU 2D Programming Tools IDE for Factor programmer subteam
 
-> SNU Programming Tools IDE for Q# programmer subteam
+> SNU 2D Programming Tools IDE for Fancy programmer subteam
 
-> SNU Programming Tools IDE for QMAKE programmer subteam
+> SNU 2D Programming Tools IDE for Fluent programmer subteam
 
-> SNU Programming Tools IDE for QML programmer subteam
+> SNU 2D Programming Tools IDE for FORTRAN programmer subteam
 
-> SNU Programming Tools IDE for R programmer subteam
+> SNU 2D Programming Tools IDE for G-CODE programmer subteam
 
-> SNU Programming Tools IDE for Racket programmer subteam
+> SNU 2D Programming Tools IDE for GAP programmer subteam
 
-> SNU Programming Tools IDE for Ragel programmer subteam
+> SNU 2D Programming Tools IDE for GDScript programmer subteam
 
-> SNU Programming Tools IDE for Raku programmer subteam
+> SNU 2D Programming Tools IDE for Gherkin programmer subteam
 
-> SNU Programming Tools IDE for Reason programmer subteam
+> SNU 2D Programming Tools IDE for GLSL programmer subteam
 
-> SNU Programming Tools IDE for REBOL programmer subteam
+> SNU 2D Programming Tools IDE for GNUPlot programmer subteam
 
-> SNU Programming Tools IDE for ReScript programmer subteam
+> SNU 2D Programming Tools IDE for Google Go programmer subteam
 
-> SNU Programming Tools IDE for Rexx programmer subteam
+> SNU 2D Programming Tools IDE for Go! programmer subteam
 
-> SNU Programming Tools IDE for Ruby programmer subteam
+> SNU 2D Programming Tools IDE for Gosu programmer subteam
 
-> SNU Programming Tools IDE for Rust programmer subteam
+> SNU 2D Programming Tools IDE for Groff programmer subteam
 
-> SNU Programming Tools IDE for SaltStack programmer subteam
+> SNU 2D Programming Tools IDE for Groovy programmer subteam
 
-> SNU Programming Tools IDE for Scala programmer subteam
+> SNU 2D Programming Tools IDE for Hack programmer subteam
 
-> SNU Programming Tools IDE for Scheme programmer subteam
+> SNU 2D Programming Tools IDE for HAML programmer subteam
 
-> SNU Programming Tools IDE for SciLab programmer subteam
+> SNU 2D Programming Tools IDE for Handlebars programmer subteam
 
-> SNU Programming Tools IDE for Sed programmer subteam
+> SNU 2D Programming Tools IDE for Haskell programmer subteam
 
-> SNU Programming Tools IDE for Self programmer subteam
+> SNU 2D Programming Tools IDE for Haxe programmer subteam
 
-> SNU Programming Tools IDE for Shaderlab programmer subteam
+> SNU 2D Programming Tools IDE for HCL programmer subteam
 
-> SNU Programming Tools IDE for Shell programmer subteam
+> SNU 2D Programming Tools IDE for HiveQL programmer subteam
 
-> SNU Programming Tools IDE for Singularity programmer subteam
+> SNU 2D Programming Tools IDE for HLSL programmer subteam
 
-> SNU Programming Tools IDE for Smalltalk programmer subteam
+> SNU 2D Programming Tools IDE for IDL programmer subteam
 
-> SNU Programming Tools IDE for Solidity programmer subteam
+> SNU 2D Programming Tools IDE for Idris programmer subteam
 
-> SNU Programming Tools IDE for Starlark programmer subteam
+> SNU 2D Programming Tools IDE for Inno Setup programmer subteam
 
-> SNU Programming Tools IDE for Stylus programmer subteam
+> SNU 2D Programming Tools IDE for INI programmer subteam
 
-> SNU Programming Tools IDE for SuperCollider programmer subteam
+> SNU 2D Programming Tools IDE for ImageJ programmer subteam
 
-> SNU Programming Tools IDE for Svelte programmer subteam
+> SNU 2D Programming Tools IDE for Inform 7 programmer subteam
 
-> SNU Programming Tools IDE for Seed7 programmer subteam
+> SNU 2D Programming Tools IDE for IronPython programmer subteam
 
-> SNU Programming Tools IDE for Squeak programmer subteam
+> SNU 2D Programming Tools IDE for Io programmer subteam
 
-> SNU Programming Tools IDE for Scratch programmer subteam
+> SNU 2D Programming Tools IDE for Isabelle programmer subteam
 
-> SNU Programming Tools IDE for Swift programmer subteam
+> SNU 2D Programming Tools IDE for J programmer subteam
 
-> SNU Programming Tools IDE for SWIG programmer subteam
+> SNU 2D Programming Tools IDE for Java programmer subteam
 
-> SNU Programming Tools IDE for TeX programmer subteam
+> SNU 2D Programming Tools IDE for JavaScript programmer subteam
 
-> SNU Programming Tools IDE for Thrift programmer subteam
+> SNU 2D Programming Tools IDE for JavaScript++ programmer subteam
 
-> SNU Programming Tools IDE for Twig programmer subteam
+> SNU 2D Programming Tools IDE for JScript programmer subteam
 
-> SNU Programming Tools IDE for TypeScript programmer subteam
+> SNU 2D Programming Tools IDE for JScript.NET programmer subteam
 
-> SNU Programming Tools IDE for UnrealScript programmer subteam
+> SNU 2D Programming Tools IDE for Jinja programmer subteam
 
-> SNU Programming Tools IDE for V programmer subteam
+> SNU 2D Programming Tools IDE for JSON programmer subteam
 
-> SNU Programming Tools IDE for Vala programmer subteam
+> SNU 2D Programming Tools IDE for Julia programmer subteam
 
-> SNU Programming Tools IDE for VBA programmer subteam
+> SNU 2D Programming Tools IDE for Jupyter Notebook programmer subteam
 
-> SNU Programming Tools IDE for VBScript programmer subteam
+> SNU 2D Programming Tools IDE for KiCad Layout programmer subteam
 
-> SNU Programming Tools IDE for VB.NET programmer subteam
+> SNU 2D Programming Tools IDE for Kotlin programmer subteam
 
-> SNU Programming Tools IDE for VHDL programmer subteam
+> SNU 2D Programming Tools IDE for Lex programmer subteam
 
-> SNU Programming Tools IDE for Vim Script programmer subteam
+> SNU 2D Programming Tools IDE for Liquid programmer subteam
 
-> SNU Programming Tools IDE for WebAssembly programmer subteam
+> SNU 2D Programming Tools IDE for LLVM programmer subteam
 
-> SNU Programming Tools IDE for WikiText programmer subteam
+> SNU 2D Programming Tools IDE for Logtalk programmer subteam
 
-> SNU Programming Tools IDE for XML programmer subteam
+> SNU 2D Programming Tools IDE for LOLCODE programmer subteam
 
-> SNU Programming Tools IDE for XQuery programmer subteam
+> SNU 2D Programming Tools IDE for Lua programmer subteam
 
-> SNU Programming Tools IDE for Yacc programmer subteam
+> SNU 2D Programming Tools IDE for M programmer subteam
 
-> SNU Programming Tools IDE for YAML programmer subteam
+> SNU 2D Programming Tools IDE for Mako programmer subteam
 
-> SNU Programming Tools IDE for Zig programmer subteam
+> SNU 2D Programming Tools IDE for Maple programmer subteam
 
-> SNU Programming Tools IDE for Clean programmer subteam
+> SNU 2D Programming Tools IDE for Mathematica programmer subteam
 
-> SNU Programming Tools IDE for ML programmer subteam
+> SNU 2D Programming Tools IDE for MATLAB programmer subteam
 
-> SNU Programming Tools IDE for Hope programmer subteam
+> SNU 2D Programming Tools IDE for Max programmer subteam
 
-> SNU Programming Tools IDE for Epigraph programmer subteam
+> SNU 2D Programming Tools IDE for Mercury programmer subteam
 
-> SNU Programming Tools IDE for KRC programmer subteam
+> SNU 2D Programming Tools IDE for Meson programmer subteam
 
-> SNU Programming Tools IDE for Orwell programmer subteam
+> SNU 2D Programming Tools IDE for Metal programmer subteam
 
-> SNU Programming Tools IDE for GetText programmer subteam
+> SNU 2D Programming Tools IDE for MLIR programmer subteam
 
-> SNU Programming Tools IDE for ideas subteam
+> SNU 2D Programming Tools IDE for MoonScript programmer subteam
 
-> SNU Programming Tools IDE for testing subteam
+> SNU 2D Programming Tools IDE for NASL programmer subteam
 
-> SNU Programming Tools IDE for PR subteam
+> SNU 2D Programming Tools IDE for nesC programmer subteam
 
-> SNU Programming Tools IDE for Documentation subteam
+> SNU 2D Programming Tools IDE for NextFlow programmer subteam
 
-> SNU Programming Tools IDE for Technical support subteam
+> SNU 2D Programming Tools IDE for NGINX programmer subteam
 
-> SNU Programming Tools IDE for enhancements subteam
+> SNU 2D Programming Tools IDE for Nim programmer subteam
 
-> SNU Programming Tools IDE for graphic artists subteam
+> SNU 2D Programming Tools IDE for Nix programmer subteam
+
+> SNU 2D Programming Tools IDE for NSIS programmer subteam
+
+> SNU 2D Programming Tools IDE for Objective-C programmer subteam
+
+> SNU 2D Programming Tools IDE for Objective-C++ programmer subteam
+
+> SNU 2D Programming Tools IDE for Objective-J programmer subteam
+
+> SNU 2D Programming Tools IDE for OCAML programmer subteam
+
+> SNU 2D Programming Tools IDE for Oberon programmer subteam
+
+> SNU 2D Programming Tools IDE for OpenEdge ABL programmer subteam
+
+> SNU 2D Programming Tools IDE for OpenQASM programmer subteam
+
+> SNU 2D Programming Tools IDE for OpenSCAD programmer subteam
+
+> SNU 2D Programming Tools IDE for Pascal programmer subteam
+
+> SNU 2D Programming Tools IDE for Perl programmer subteam
+
+> SNU 2D Programming Tools IDE for PHP programmer subteam
+
+> SNU 2D Programming Tools IDE for PigLatin programmer subteam
+
+> SNU 2D Programming Tools IDE for PowerShell programmer subteam
+
+> SNU 2D Programming Tools IDE for PLSQL programmer subteam
+
+> SNU 2D Programming Tools IDE for ProcessingJS programmer subteam
+
+> SNU 2D Programming Tools IDE for Prolog programmer subteam
+
+> SNU 2D Programming Tools IDE for Pug programmer subteam
+
+> SNU 2D Programming Tools IDE for Puppet programmer subteam
+
+> SNU 2D Programming Tools IDE for PureBasic programmer subteam
+
+> SNU 2D Programming Tools IDE for Python programmer subteam
+
+> SNU 2D Programming Tools IDE for Q# programmer subteam
+
+> SNU 2D Programming Tools IDE for QMAKE programmer subteam
+
+> SNU 2D Programming Tools IDE for QML programmer subteam
+
+> SNU 2D Programming Tools IDE for R programmer subteam
+
+> SNU 2D Programming Tools IDE for Racket programmer subteam
+
+> SNU 2D Programming Tools IDE for Ragel programmer subteam
+
+> SNU 2D Programming Tools IDE for Raku programmer subteam
+
+> SNU 2D Programming Tools IDE for Reason programmer subteam
+
+> SNU 2D Programming Tools IDE for REBOL programmer subteam
+
+> SNU 2D Programming Tools IDE for ReScript programmer subteam
+
+> SNU 2D Programming Tools IDE for Rexx programmer subteam
+
+> SNU 2D Programming Tools IDE for Ruby programmer subteam
+
+> SNU 2D Programming Tools IDE for Rust programmer subteam
+
+> SNU 2D Programming Tools IDE for SaltStack programmer subteam
+
+> SNU 2D Programming Tools IDE for Scala programmer subteam
+
+> SNU 2D Programming Tools IDE for Scheme programmer subteam
+
+> SNU 2D Programming Tools IDE for SciLab programmer subteam
+
+> SNU 2D Programming Tools IDE for Sed programmer subteam
+
+> SNU 2D Programming Tools IDE for Self programmer subteam
+
+> SNU 2D Programming Tools IDE for Shaderlab programmer subteam
+
+> SNU 2D Programming Tools IDE for Shell programmer subteam
+
+> SNU 2D Programming Tools IDE for Singularity programmer subteam
+
+> SNU 2D Programming Tools IDE for Smalltalk programmer subteam
+
+> SNU 2D Programming Tools IDE for Solidity programmer subteam
+
+> SNU 2D Programming Tools IDE for Starlark programmer subteam
+
+> SNU 2D Programming Tools IDE for Stylus programmer subteam
+
+> SNU 2D Programming Tools IDE for SuperCollider programmer subteam
+
+> SNU 2D Programming Tools IDE for Svelte programmer subteam
+
+> SNU 2D Programming Tools IDE for Seed7 programmer subteam
+
+> SNU 2D Programming Tools IDE for Squeak programmer subteam
+
+> SNU 2D Programming Tools IDE for Scratch programmer subteam
+
+> SNU 2D Programming Tools IDE for Swift programmer subteam
+
+> SNU 2D Programming Tools IDE for SWIG programmer subteam
+
+> SNU 2D Programming Tools IDE for TeX programmer subteam
+
+> SNU 2D Programming Tools IDE for Thrift programmer subteam
+
+> SNU 2D Programming Tools IDE for Twig programmer subteam
+
+> SNU 2D Programming Tools IDE for TypeScript programmer subteam
+
+> SNU 2D Programming Tools IDE for UnrealScript programmer subteam
+
+> SNU 2D Programming Tools IDE for V programmer subteam
+
+> SNU 2D Programming Tools IDE for Vala programmer subteam
+
+> SNU 2D Programming Tools IDE for VBA programmer subteam
+
+> SNU 2D Programming Tools IDE for VBScript programmer subteam
+
+> SNU 2D Programming Tools IDE for VB.NET programmer subteam
+
+> SNU 2D Programming Tools IDE for VHDL programmer subteam
+
+> SNU 2D Programming Tools IDE for Vim Script programmer subteam
+
+> SNU 2D Programming Tools IDE for WebAssembly programmer subteam
+
+> SNU 2D Programming Tools IDE for WikiText programmer subteam
+
+> SNU 2D Programming Tools IDE for XML programmer subteam
+
+> SNU 2D Programming Tools IDE for XQuery programmer subteam
+
+> SNU 2D Programming Tools IDE for Yacc programmer subteam
+
+> SNU 2D Programming Tools IDE for YAML programmer subteam
+
+> SNU 2D Programming Tools IDE for Zig programmer subteam
+
+> SNU 2D Programming Tools IDE for Clean programmer subteam
+
+> SNU 2D Programming Tools IDE for ML programmer subteam
+
+> SNU 2D Programming Tools IDE for Hope programmer subteam
+
+> SNU 2D Programming Tools IDE for Epigraph programmer subteam
+
+> SNU 2D Programming Tools IDE for KRC programmer subteam
+
+> SNU 2D Programming Tools IDE for Orwell programmer subteam
+
+> SNU 2D Programming Tools IDE for GetText programmer subteam
+
+> SNU 2D Programming Tools IDE for ideas subteam
+
+> SNU 2D Programming Tools IDE for testing subteam
+
+> SNU 2D Programming Tools IDE for PR subteam
+
+> SNU 2D Programming Tools IDE for Documentation subteam
+
+> SNU 2D Programming Tools IDE for Technical support subteam
+
+> SNU 2D Programming Tools IDE for enhancements subteam
+
+> SNU 2D Programming Tools IDE for graphic artists subteam
 
 Section incomplete
+
+### SNU 3D
+
+### SNU 4D
 
 ## FINF-DB team
 
@@ -1070,6 +1512,18 @@ Section incomplete
 
 > Vim AutoScroller testing subteam
 
+### Google Anti-Privacy extension subteam
+
+_A joke program based on DuckDuckGos privacy essentials extension, where it claims to be from Google, and all positive attributes in the DuckDuckGo version are inverted to show Googles actual standards._
+
+> Google Anti-privacy extension JavaScript programmer subteam
+
+> Google Anti-privacy extension documentation subteam
+
+> Google Anti-privacy extension maintenance subteam
+
+> Google Anti-privacy extension testing subteam
+
 ## Mathematics team
 
 ### UCALC subteam
@@ -1099,6 +1553,40 @@ Section incomplete
 > Meadows PR subteam
 
 > Meadows enhancements subteam
+
+#### Meadows EAS microteam
+
+> > Meadows EAS system maintenance sub-microteam
+
+> > Meadows EAS system C++ programmer sub-microteam
+
+> > Meadows EAS system Shell programmer sub-microteam
+
+> > Meadows EAS system enhancements sub-microteam
+
+> > Meadows EAS system PR sub-microteam
+
+> > Meadows EAS system Tech support sub-microteam
+
+> > Meadows EAS system Compliance sub-microteam
+
+#### Meadows Calendar microteam
+
+
+#### Meadows Clock microteam
+
+
+#### Meadows System Core microteam
+
+
+#### Meadows Desktop microteam
+
+
+#### Meadows Settings microteam
+
+
+#### Meadows Virtual Machine Manager microteam
+
 
 #### MEDOS subteam
 
@@ -1808,6 +2296,76 @@ Section incomplete
 
 > Meta Social Media team
 
+## Standards team
+
+### LapLight subteam
+
+> LapLight maintenance subteam
+
+> LapLight enhancements subteam
+
+> LapLight PR subteam
+
+> LapLight documentation subteam
+
+> LapLight research team
+
+> LapLight C programmer subteam
+
+> LapLight Assembly programmer subteam
+
+### 
+
+No other standards to list at the moment.
+
+## Legacy software team
+
+### 9x Internet subteam
+
+> 9x-Internet VBScript programmer subteam
+
+> 9x-Internet HTML scripting subteam
+
+> 9x-Internet Virtual Machine testing subteam
+
+> 9x-Internet Maintenance subteam
+
+> 9x-Internet Documentation subteam
+
+> 9x-Internet Enhancements subteam
+
+> 9x-Internet PR subteam
+
+> 9x-Internet Research subteam
+
+> 9x-Internet Security subteam
+
+## Concept team
+
+### Doorcrete subteam
+
+> Doorcrete maintenance subteam
+
+> Doorcrete enhancements subteam
+
+> Doorcrete PR subteam
+
+> Doorcrete documentation subteam
+
+> Doorcrete research team
+
+### DeciCube subteam
+
+> DeciCube maintenance subteam
+
+> DeciCube enhancements subteam
+
+> DeciCube PR subteam
+
+> DeciCube documentation subteam
+
+> DeciCube research team
+
 ### Hardware
 
 #### Reactop computers team
@@ -1824,8 +2382,8 @@ Section incomplete
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2022 Thursday, February 10th at 7:23 pm)`
+**File version:** `5 (2022 Monday, February 14th at 5:42 pm)`
 
-**Line count (Including blank lines and compiler line):** `1,832`
+**Line count (Including blank lines and compiler line):** `2,390`
 
 ***
