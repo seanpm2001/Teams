@@ -38,138 +38,259 @@ Note to self: Do not maintain more than 20 teams as a starter amount. Expanding 
 Left to add:
 
 TrueTorrent
+
 Advanced Eye Chart
-<s>AGRAN-lang
-Easy-E IDE
-Dropped Text
-Matrix-lang
-DIFFicult</s>
+
 Bitchecker-dev
+
 Bootdown-dev
-Branch ranch
-Browsniffica
+
+Browsniffica✅️
+
 CH3-c-K
+
 ChromaTagsForGit
+
 Coloress
+
 Compubunker
+
 Compunker
+
 CompuSmell
+
 CottonTree
+
 Count Mausoleum
+
 Cross Compat XU
+
 Cyborg System Monitor
+
 Dentalbar Whitetooth Pro
+
 DMail
+
 DOS Buddy
+
 Engineer Superdesk
+
 FreeGenie
+
 GeniBlock
+
 GitManager
+
 Gitty-Images
+
 GK Keyboard
+
 Go!Gle engine
+
 Goodbye world program
+
 GratyBot
+
 GuineaMyrickLifeArchive
+
 Halloween Assistant
+
 Hatium
+
 Health Meter Maximum
+
 Hospital Defender
+
 HT Messenger
+
 HX Template
-Hyper Realistic Farm Simulator
+
+Hyper Realistic Farm Simulator ✅️
+
 IGNORE file
-Its-time-to-cut-WideVine DRM
+
+Its-time-to-cut-WideVine DRM✅️
+
 Keyoff
+
 KeyStroke
+
 LightSpeedRelayTechnologies
+
 LinkLax
+
 MadLibby
-Medical Ethics
+
+Medical Ethics ✅️
+
 Meme Machine 2019
+
 MicroWave
+
 Myrick Family Archive
+
 NexxFetch
+
 NimbleBit Fan Club
+
 Nost Gia OS
+
 Nostalgia project
-Numeric Liberation Front
+
+Numeric Liberation Front ✅️
+
 NUNIX
+
 OpenGovernment
+
 OuterVM
+
 OuterVM Mouse
+
 OVPVMO site
+
 Password Generator Ultimate
+
 Perl Harbor
+
 PFOSS Initiative
+
 PhD in PHP
+
 PFOSS Initiative
+
 PhoneHome
+
 Pri-Fiy
+
 Project1k1
+
 PVZ Custom
+
 PyVM
+
 Ratiyo
+
 README Desktop Library
+
 RNAssistant
-RubbleRobot
+
+RubbleRobot✅️
+
 S Desktop Environment
+
 SafeT
+
 ScreenTeX
+
 ScriptKidd ToolKit
+
 AirBnB
+
 Anime
+
 Biology
+
 Blocklist
+
 Botany
+
 Discord
+
 FanGames
+
 FoodIndex
+
 Ko-Fi
+
 Patreon
+
 Marine Biology
-Metric System
+
+Metric System✅️
+
 Quora
-Robotics
+
+Robotics✅️
+
 Wikipedia
+
 Self-care Bot
+
 SimZonns
+
 Skeuowie
+
 Slick license manager
+
 Snapshot version control system
-StartFsck/WinFsck
-What the FLoC
+
+StartFsck/WinFsck ✅️
+
+What the FLoC✅️
+
 WebNetPlus
+
 WakeNote
+
 VoiceGod
+
 VOI Manor
+
 Virtual Home
+
 Virtual-VHS
-Virg.io
+
+Virg.io✅️
+
 V-Reshot
+
 UTPM
+
 UShortcut Pro
-URLL specification
+
+URLL specification✅️
+
 uOffice
+
 UltraSwitch
+
 UltraCompass
+
 Ultra Image Studio
+
 UI Tour Guide
+
 uDonate
-TuxBot Operating System
+
+TuxBot Operating System✅️
+
 TrueEEG
+
 TrueCalm
+
 Timeout ToolKit
-The offline experience
-The existential index
-The dystopian dictionary
+
+The offline experience✅️
+
+The existential index✅️
+
+The dystopian dictionary✅️
+
 Techlaration
-Talla Browser
-TalkScript
-Super Power Laptops
+
+Talla Browser✅️
+
+TalkScript✅️
+
+Super Power Laptops✅️
+
 SociaShame
+
 SourceBase
+
 AI
+
 Various SNU projects
 
 ---
@@ -202,15 +323,19 @@ Various SNU projects
 
 [11.0 - Technical comedy (joke program) team](#Technical-comedy-team)
 
-[12.0 - BlueTooth team](#BlueTooth-team)
+[12.0 - Web browser team](#Web-browser-team)
 
-[13.0 - Management team](#Management-team)
+[13.0 - Robotics team](#Robotics-team)
 
-[14.0 - Standards team](#Standards-team)
+[14.0 - BlueTooth team](#BlueTooth-team)
 
-[15.0 - Concept team](#Concept-team)
+[15.0 - Management team](#Management-team)
 
-[16.0 - Hardware team](#Hardware-team)
+[16.0 - Standards team](#Standards-team)
+
+[17.0 - Concept team](#Concept-team)
+
+[18.0 - Hardware team](#Hardware-team)
 
 ---
 
@@ -223,19 +348,81 @@ etc. - Needs work
 
 ## Articles and documentation team
 
-> DeGoogle subteam
+### DeGoogle subteam
 
-> > DeGoogle article maintenance microteam
+#### DeGoogle-your-Life microteam
+ 
+> > > DeGoogle-Your-Life article maintenance sub-microteam
 
-> > DeGoogle article improvements microteam
+> > > DeGoogle-Your-Life article improvements sub-microteam
 
-> > DeGoogle research microteam
+> > > DeGoogle-Your-Life article research sub-microteam
 
-> Seanpm2001 Health subteam
+> > > DeGoogle-Your-Life PR sub-microteam
 
-> > Medical ethics microteam
+> > > DeGoogle-Your-Life organization manager sub-microteam
 
-> United Autism Rights writing committee subteam
+> > > > DeGoogle-Your-Life GitHub-Pages manager duosub-microteam
+
+#### Its-time-to-cut-WideVine DRM microteam
+
+> > > Its-time-to-cut-WideVine DRM article maintenance sub-microteam
+
+> > > Its-time-to-cut-WideVine DRM article improvements sub-microteam
+
+> > > Its-time-to-cut-WideVine DRM article research sub-microteam
+
+> > > Its-time-to-cut-WideVine DRM article PR sub-microteam
+
+> > > Its-time-to-cut-WideVine-DRM Organization manager sub-microteam
+
+> > > > Its-time-to-cut-WideVine-DRM GitHub-Pages manager duosub-microteam
+
+#### What the FLoC microteam
+
+> > > What the FLoC article maintenance sub-microteam
+
+> > > What the FLoC article improvements sub-microteam
+
+> > > What the FLoC article research sub-microteam
+
+> > > What the FLoC article PR sub-microteam
+
+> > > What the FLoC Organization manager sub-microteam
+
+> > > > What the FLoC GitHub-Pages manager duosub-microteam
+
+#### Why-you-should-stop-using-Google-Chrome microteam
+
+> > > Why-you-should-stop-using-Google-Chrome article maintenance sub-microteam
+
+> > > Why-you-should-stop-using-Google-Chrome article improvements sub-microteam
+
+> > > Why-you-should-stop-using-Google-Chrome article research sub-microteam
+
+> > > Why-you-should-stop-using-Google-Chrome article PR sub-microteam
+
+### Seanpm2001 Health subteam
+
+#### Medical ethics microteam
+
+> > > Medical Ethics article maintenance sub-microteam
+
+> > > Medical Ethics article improvements sub-microteam
+
+> > > Medical Ethics article research sub-microteam
+
+> > > Medical Ethics article PR sub-microteam
+
+> > > Medical Ethics Organization manager sub-microteam
+
+> > > > Medical Ethics GitHub-Pages manager duosub-microteam
+
+#### Other
+
+Coming soon
+
+### United Autism Rights writing committee subteam
 
 > > Autism research microteam
 
@@ -243,9 +430,141 @@ etc. - Needs work
 
 > > UAR peer review microteam
 
-> Computing longevity writing committee subteam
+> > UAR maintenance microteam
 
-> FINF-DB Blog writing commitee subteam
+> > UAR organization mananager microteam
+
+> > > UAR GitHub-Pages manager sub-microteam
+
+### Computing longevity writing committee subteam
+
+> > Computing longevity standards board sub-microteam
+
+> > Computing longevity testing sub-microteam
+
+> > Computing longevity article maintenance sub-microteam
+
+> > Computing longevity article writing sub-microteam
+
+> > Computing longevity research sub-microteam
+
+> > Computing longevity PR sub-microteam
+
+> > Computing longevity organization manager sub-microteam
+
+> > > Computing longevity GitHub-Pages manager sub-microteam
+
+### FINF-DB Blog writing commitee subteam
+
+> > FINF-DB standards board sub-microteam
+
+> > FINF-DB testing sub-microteam
+
+> > FINF-DB article maintenance sub-microteam
+
+> > FINF-DB article writing sub-microteam
+
+> > FINF-DB research sub-microteam
+
+> > FINF-DB PR sub-microteam
+
+> > FINF-DB organization manager sub-microteam
+
+> > > FINF-DB GitHub-Pages manager sub-microteam
+
+### The offline experience writing committee subteam
+
+> > The offline experience standards board sub-microteam
+
+> > The offline experience testing sub-microteam
+
+> > The offline experience article maintenance sub-microteam
+
+> > The offline experience article writing sub-microteam
+
+> > The offline experience research sub-microteam
+
+> > The offline experience PR sub-microteam
+
+> > The offline experience organization manager sub-microteam
+
+> > > The offline experience GitHub-Pages manager sub-microteam
+
+### The existential index writing committee subteam
+
+> > The existential index standards board sub-microteam
+
+> > The existential index testing sub-microteam
+
+> > The existential index article maintenance sub-microteam
+
+> > The existential index article writing sub-microteam
+
+> > The existential index research sub-microteam
+
+> > The existential index PR sub-microteam
+
+> > The existential index organization manager sub-microteam
+
+> > > The existential index GitHub-Pages manager sub-microteam
+
+> > The existential index psychology sub-microteam
+
+> > The existential index TeX formatting sub-microteam
+
+### The dystopian dictionary writing committee subteam
+
+> > The Dystopian Dictionary standards board sub-microteam
+
+> > The Dystopian Dictionary testing sub-microteam
+
+> > The Dystopian Dictionary article maintenance sub-microteam
+
+> > The Dystopian Dictionary article writing sub-microteam
+
+> > The Dystopian Dictionary research sub-microteam
+
+> > The Dystopian Dictionary PR sub-microteam
+
+> > The Dystopian Dictionary organization manager sub-microteam
+
+> > > The Dystopian Dictionary GitHub-Pages manager sub-microteam
+
+> > The Dystopian Dictionary psychology sub-microteam
+
+> > The Dystopian Dictionary political research sub-microteam
+
+> > The Dystopian Dictionary TeX formatting sub-microteam
+
+> > The Dystopian Dictionary Orwellian discussion sub-microteam
+
+### Metric System enhancements subteam
+
+> > Metric system enhancements sub-microteam
+
+> > Metric system enhancements article sub-microteam
+
+> > Metric system enhancements PR sub-microteam
+
+> > Metric system enhancements research sub-microteam
+
+> > Metric system enhancements organization manager sub-microteam
+
+> > > Metric system enhancements GitHub-Pages manager duosub-microteam
+
+### Numeric Liberation Front subteam
+
+> > Numeric Liberation Front article sub-microteam
+
+> > Numeric Liberation Front enhancements sub-microteam
+
+> > Numeric Liberation Front research sub-microteam
+
+> > Numeric Liberation Front PR sub-microteam
+
+> > Numeric Liberation Front organization manager sub-microteam
+
+> > > Numeric Liberation Front GitHub-Pages manager duosub-microteam
 
 ## Video games team
 
@@ -262,6 +581,12 @@ etc. - Needs work
 > MCPYE enhancements subteam
 
 > MCPYE graphic artists subteam
+
+> MCPYE Maintenance subteam
+
+> MCPYE Organization manager subteam
+
+> > MCPYE GitHub-Pages maintainer sub-microteam
 
 ### Tetris128 subteam
 
@@ -283,6 +608,12 @@ etc. - Needs work
 
 > Tetris128 graphic artists subteam
 
+> Tetris128 Maintenance subteam
+
+> Tetris128 Organization manager subteam
+
+> > Tetris128 GitHub-Pages maintainer sub-microteam
+
 ### iBlast subteam
 
 > iBlast Pythoneer subteam
@@ -298,6 +629,12 @@ etc. - Needs work
 > iBlast enhancements subteam
 
 > iBlast graphic artists subteam
+
+> iBlast Maintenance subteam
+
+> iBlast Organization manager subteam
+
+> > iBlast GitHub-Pages maintainer sub-microteam
 
 ### The Pirates Copy subteam
 
@@ -318,6 +655,12 @@ etc. - Needs work
 > The Pirates Copy enhancements subteam
 
 > The Pirates Copy graphic artists subteam
+
+> The Pirates Copy Maintenance subteam
+
+> The Pirates Copy Organization manager subteam
+
+> > The Pirates Copy GitHub-Pages maintainer sub-microteam
 
 ### Turkey stories subteam
 
@@ -636,6 +979,26 @@ etc. - Needs work
 > Tap Pet Hotel Open enhancements sub-microteam
 
 > Tap Pet Hotel Open graphic artists sub-microteam
+
+### Hyper Realistic Farm Simulator microteam
+
+> Hyper Realistic Farm Simulator Python programmer sub-microteam
+
+> Hyper Realistic Farm Simulator testing sub-microteam
+
+> Hyper Realistic Farm Simulator PR sub-microteam
+
+> Hyper Realistic Farm Simulator Documentation sub-microteam
+
+> Hyper Realistic Farm Simulator Technical support sub-microteam
+
+> Hyper Realistic Farm Simulator Open enhancements sub-microteam
+
+> Hyper Realistic Farm Simulator graphic artists sub-microteam
+
+> Hyper Realistic Farm Simulator organization manager sub-microteam
+
+> > Hyper Realistic Farm Simulator GitHub Pages manager sub-microteam
 
 #### Minigame subteam
 
@@ -971,7 +1334,43 @@ Contains sexual themes and swearing
 
 > Ucuntu documentation subteam
 
-LIST MORE PROJECTS
+### WinFsck subteam
+
+> WinFsck documentation subteam
+
+> WinFsck maintenance subteam
+
+> WinFsck organization manager subteam
+
+> > WinFsck GitHub-Pages manager sub-microteam
+
+### StartFsck subteam
+
+> StartFsck documentation subteam
+
+> StartFsck maintenance subteam
+
+> StartFsck research subteam
+
+> StartFsck VM testing subteam
+
+> StartFsck C programmer subteam
+
+> StartFsck C# programmer subteam
+
+> StartFsck PowerShell programmer subteam
+
+> StartFsck Batchfile programmer subteam
+
+> StartFsck VBScript programmer subteam
+
+> StartFsck KiXTart programmer subteam
+
+> StartFsck organization manager subteam
+
+> > StartFsck GitHub-Pages manager sub-microteam
+
+No other creative malware projects to list.
 
 ## Team SNU
 
@@ -1681,6 +2080,32 @@ _A joke program based on DuckDuckGos privacy essentials extension, where it clai
 
 ## OS team
 
+### TuxBot Operating System subteam
+
+> TuxBotOS robotics sub-microteam
+
+> TuxBotOS C programming sub-microteam
+
+> TuxBotOS C++ programming sub-microteam
+
+> TuxBotOS Python programming sub-microteam
+
+> TuxBotOS Assembly programming sub-microteam
+
+> TuxBotOS HTML Writing sub-microteam
+
+> TuxBotOS Maintenance sub-microteam
+
+> TuxBotOS Documentation sub-microteam
+
+> TuxBotOS Software testing sub-microteam
+
+> TuxBotOS Hardware testing sub-microteam
+
+> TuxBotOS Enhancements sub-microteam
+
+> TuxBotOS PR sub-microteam
+
 ### Meadows team
 
 > Meadows designer subteam
@@ -2373,6 +2798,110 @@ Section incomplete
 
 > Branch Ranch graphic artists subteam
 
+### Virg.io team
+
+> Virg.io VHDL programmer subteam
+
+> Virg.io ideas subteam
+
+> Virg.io testing subteam
+
+> Virg.io PR subteam
+
+> Virg.io Documentation subteam
+
+> Virg.io Technical support subteam
+
+> Virg.io enhancements subteam
+
+> Virg.io graphic artists subteam
+
+## Web browser team
+
+### Talla Browser subteam
+
+> Talla web browser Python programmer subteam
+
+> Talla web browser HTML writer subteam
+
+> Talla web browser CSS writer subteam
+
+> Talla web browser TypeScript programmer subteam
+
+> Talla web browser JavaScript programmer subteam
+
+> Talla web browser PHP programmer subteam
+
+> Talla web browser Ruby programmer subteam
+
+> Talla web browser C++ programmer subteam
+
+> Talla web browser Rust programmer subteam
+
+> Talla web browser Elm programmer subteam
+
+> Talla web browser ideas subteam
+
+> Talla web browser testing subteam
+
+> Talla web browser PR subteam
+
+> Talla web browser Documentation subteam
+
+> Talla web browser Technical support subteam
+
+> Talla web browser enhancements subteam
+
+> Talla web browser graphic artists subteam
+
+> Talla web browser WHATWG compliance subteam
+
+### Browsniffica subteam
+
+> > Browsniffica Perl programmer sub-microteam
+
+> > Browsniffica Testing sub-microteam
+
+> > Browsniffica Maintenance sub-microteam
+
+> > Browsniffica Documentation sub-microteam
+
+> > Browsniffica PR sub-microteam
+
+> > Browsniffica Enhancements sub-microteam
+
+> > Browsniffica Organization manager sub-microteam
+
+> > > Browsniffica GitHub-Pages manager sub-microteam
+
+No other web browser projects to list.
+
+## Robotics team
+
+### RubbleRobot subteam
+
+> > RubbleRobot research sub-microteam
+
+> > RubbleRobot documentation sub-microteam
+
+> > RubbleRobot maintenance sub-microteam
+
+> > RubbleRobot robotics sub-microteam
+
+> > RubbleRobot VHDL programmer sub-microteam
+
+> > RubbleRobot C programmer sub-microteam
+
+> > RubbleRobot Assembly programmer sub-microteam
+
+> > RubbleRobot PR sub-microteam
+
+### TuxBot
+
+[Redirect](#TuxBot-Operating-System-subteam)
+
+No other robotics projects to list.
+
 ## BlueTooth team
 
 ### BluPhone subteam
@@ -2453,8 +2982,6 @@ Section incomplete
 
 > LapLight Assembly programmer subteam
 
-### 
-
 No other standards to list at the moment.
 
 ## Special IDE team
@@ -2523,6 +3050,40 @@ Currently abandoned
 
 > DROTEX PR subteam
 
+### TalkScript language subteam
+
+> TalkScript accessibility subteam
+
+> TalkScript enhancements subteam
+
+> TalkScript research subteam
+
+> TalkScript documentation subteam
+
+> TalkScript Python programmer subteam
+
+> TalkScript PR subteam
+
+### URLL language & specification subteam
+
+> URLL maintenance subteam
+
+> URLL enhancements subteam
+
+> URLL Python programmer subteam
+
+> URLL documentation subteam
+
+> URLL PR subteam
+
+> URLL Organization manager subteam
+
+> > URLL GitHub-Pages manager sub-microteam
+
+> URLL Testing subteam
+
+No other languages to list
+
 ## Legacy software team
 
 ### 9x Internet subteam
@@ -2581,14 +3142,42 @@ Currently abandoned
 
 > Reactop documentation team
 
+#### Super Power Laptops team
+
+> SP Laptop assembly line
+
+> SP Laptop PR subteam
+
+> SP Laptop documentation subteam
+
+> SP Laptop enhancements subteam
+
+> SP Laptop research subteam
+
+> SP Laptop project maintenance subteam
+
+> SP Laptop organization manager subteam
+
+> > SP Laptop GitHub Pages manager subteam
+
+#### DeciCube team
+
+[Requires more research, and a MASSIVE economic grant first]
+
+> DeciCube assembly line
+
+> DeciCube testing subteam
+
+No other hardware projects to list.
+
 ***
 
 ## File info
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2022 Monday, February 14th at 6:52 pm)`
+**File version:** `7 (2022 Wednesday, February 16th at 5:10 pm)`
 
-**Line count (Including blank lines and compiler line):** `2,595`
+**Line count (Including blank lines and compiler line):** `3,184`
 
 ***
