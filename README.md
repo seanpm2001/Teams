@@ -37,10 +37,6 @@ Note to self: Do not maintain more than 20 teams as a starter amount. Expanding 
 
 Left to add:
 
-Census ✅️
-
-Politics ✅️
-
 DDS
 
 Biology
@@ -89,25 +85,17 @@ DOS Buddy
 
 Engineer Superdesk
 
-FreeGenie ✅️
-
-GeniBlock ✅️
-
 GitManager
 
 Gitty-Images
 
 GK Keyboard
 
-Go!Gle engine ✅️
-
 Goodbye world program
 
 GratyBot
 
 GuineaMyrickLifeArchive
-
-Halloween Assistant ✅️
 
 Hatium
 
@@ -119,8 +107,6 @@ HT Messenger
 
 HX Template
 
-IGNORE file ✅️
-
 Keyoff
 
 KeyStroke
@@ -131,13 +117,9 @@ LinkLax
 
 MadLibby
 
-Meme Machine 2019 ✅️
-
 MicroWave
 
 Myrick Family Archive
-
-NexxFetch ✅️
 
 NimbleBit Fan Club
 
@@ -155,12 +137,6 @@ OuterVM Mouse
 
 OVPVMO site
 
-Password Generator Ultimate ✅️
-
-Perl Harbor ✅️
-
-PFOSS Initiative ✅️
-
 PhD in PHP
 
 PhoneHome
@@ -172,8 +148,6 @@ Project1k1
 PVZ Custom
 
 PyVM
-
-Ratiyo ✅️
 
 README Desktop Library
 
@@ -187,13 +161,9 @@ ScreenTeX
 
 ScriptKidd ToolKit
 
-AirBnB ✅️
-
 Anime
 
 Biology
-
-Blocklist ✅️
 
 Botany
 
@@ -201,35 +171,19 @@ FanGames
 
 FoodIndex
 
-Ko-Fi ✅️
-
-Patreon ✅️
-
 Marine Biology
 
-Quora ✅️
-
-Wikipedia ✅️
-
 Self-care Bot
-
-SimZonns ✅️
 
 Skeuowie
 
 Slick license manager
 
-Snapshot version control system ✅️
-
 WebNetPlus
-
-WakeNote ✅️
 
 VoiceGod
 
 VOI Manor
-
-Discord ✅️
 
 Virtual Home
 
@@ -241,8 +195,6 @@ UTPM
 
 UShortcut Pro
 
-uOffice ✅️
-
 UltraSwitch
 
 UltraCompass
@@ -251,13 +203,9 @@ Ultra Image Studio
 
 UI Tour Guide
 
-uDonate ✅️
-
 TrueEEG
 
 TrueCalm
-
-Timeout ToolKit ✅️
 
 Techlaration
 
@@ -3578,8 +3526,8 @@ Experience requirements
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `9 (2022 Wednesday, February 16th at 7:13 pm)`
+**File version:** `10 (2022 Wednesday, February 16th at 7:16 pm)`
 
-**Line count (Including blank lines and compiler line):** `3,586`
+**Line count (Including blank lines and compiler line):** `3,534`
 
 ***
