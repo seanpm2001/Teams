@@ -37,6 +37,22 @@ Note to self: Do not maintain more than 20 teams as a starter amount. Expanding 
 
 Left to add:
 
+Census ✅️
+
+Politics ✅️
+
+DDS
+
+Biology
+
+Dronemap
+
+Emulators
+
+Snapcraft variants
+
+Snowcraft
+
 TrueTorrent
 
 Advanced Eye Chart
@@ -73,9 +89,9 @@ DOS Buddy
 
 Engineer Superdesk
 
-FreeGenie
+FreeGenie ✅️
 
-GeniBlock
+GeniBlock ✅️
 
 GitManager
 
@@ -83,7 +99,7 @@ Gitty-Images
 
 GK Keyboard
 
-Go!Gle engine
+Go!Gle engine ✅️
 
 Goodbye world program
 
@@ -91,7 +107,7 @@ GratyBot
 
 GuineaMyrickLifeArchive
 
-Halloween Assistant
+Halloween Assistant ✅️
 
 Hatium
 
@@ -103,7 +119,7 @@ HT Messenger
 
 HX Template
 
-IGNORE file
+IGNORE file ✅️
 
 Keyoff
 
@@ -115,13 +131,13 @@ LinkLax
 
 MadLibby
 
-Meme Machine 2019
+Meme Machine 2019 ✅️
 
 MicroWave
 
 Myrick Family Archive
 
-NexxFetch
+NexxFetch ✅️
 
 NimbleBit Fan Club
 
@@ -139,15 +155,13 @@ OuterVM Mouse
 
 OVPVMO site
 
-Password Generator Ultimate
+Password Generator Ultimate ✅️
 
-Perl Harbor
+Perl Harbor ✅️
 
-PFOSS Initiative
+PFOSS Initiative ✅️
 
 PhD in PHP
-
-PFOSS Initiative
 
 PhoneHome
 
@@ -159,7 +173,7 @@ PVZ Custom
 
 PyVM
 
-Ratiyo
+Ratiyo ✅️
 
 README Desktop Library
 
@@ -173,49 +187,49 @@ ScreenTeX
 
 ScriptKidd ToolKit
 
-AirBnB
+AirBnB ✅️
 
 Anime
 
 Biology
 
-Blocklist
+Blocklist ✅️
 
 Botany
-
-Discord
 
 FanGames
 
 FoodIndex
 
-Ko-Fi
+Ko-Fi ✅️
 
-Patreon
+Patreon ✅️
 
 Marine Biology
 
-Quora
+Quora ✅️
 
-Wikipedia
+Wikipedia ✅️
 
 Self-care Bot
 
-SimZonns
+SimZonns ✅️
 
 Skeuowie
 
 Slick license manager
 
-Snapshot version control system
+Snapshot version control system ✅️
 
 WebNetPlus
 
-WakeNote
+WakeNote ✅️
 
 VoiceGod
 
 VOI Manor
+
+Discord ✅️
 
 Virtual Home
 
@@ -227,7 +241,7 @@ UTPM
 
 UShortcut Pro
 
-uOffice
+uOffice ✅️
 
 UltraSwitch
 
@@ -237,13 +251,13 @@ Ultra Image Studio
 
 UI Tour Guide
 
-uDonate
+uDonate ✅️
 
 TrueEEG
 
 TrueCalm
 
-Timeout ToolKit
+Timeout ToolKit ✅️
 
 Techlaration
 
@@ -527,6 +541,14 @@ Coming soon
 > > Numeric Liberation Front organization manager sub-microteam
 
 > > > Numeric Liberation Front GitHub-Pages manager duosub-microteam
+
+### IGNORE file subteam
+
+> > IGNORE file maintenance sub-microteam
+
+> > IGNORE file PR sub-microteam
+
+No other article projects listed
 
 ## Video games team
 
@@ -2864,6 +2886,50 @@ No other web browser projects to list.
 
 No other robotics projects to list.
 
+## Office team
+
+### uOffice core subteam
+
+> uOffice Python programmer sub-microteam
+
+> uOffice Java programmer sub-microteam
+
+> uOffice Documentation sub-microteam
+
+> uOffice Maintenance sub-microteam
+
+> uOffice enhancements sub-microteam
+
+> uOffice Research sub-microteam
+
+> uOffice Graphic design sub-microteam
+
+> uOffice ODF compliance committee sub-microteam
+
+> uOffice testing sub-microteam
+
+> uOffice PR sub-microteam
+
+### uOffice DVCS subteam
+
+> uOffice DVCS Python programmer sub-microteam
+
+> uOffice DVCS Documentation sub-microteam
+
+> uOffice DVCS Maintenance sub-microteam
+
+> uOffice DVCS enhancements sub-microteam
+
+> uOffice DVCS Research sub-microteam
+
+> uOffice DVCS Graphic design sub-microteam
+
+> uOffice DVCS testing sub-microteam
+
+> uOffice DVCS PR sub-microteam
+
+No other uOffice/Office projects to list
+
 ## BlueTooth team
 
 ### BluPhone subteam
@@ -3094,7 +3160,9 @@ No other languages to list
 
 > DeciCube research team
 
-### Hardware
+***
+
+### Hardware team
 
 #### Reactop computers team
 
@@ -3134,12 +3202,384 @@ No other hardware projects to list.
 
 ***
 
+## Online presence team
+
+### Wikimedia subteam
+
+_WARNING:_ Do not vandalize, compromise, or pay for edits to contribute. To be more clear, do not break any of Wikimedias rules. This applies to everything else as well.
+
+> Wikipedia sub-microteam
+
+> Wiktionary sub-microteam
+
+> Wikiversity sub-microteam
+
+> WikiData sub-microteam
+
+> WikiVoyage sub-microteam
+
+> WikiSpecies sub-microteam
+
+> MetaWiki sub-microteam
+
+> WikiSource sub-microteam
+
+> Wikimedia Commons sub-microteam
+
+> WikiQuote sub-microteam
+
+> WikiBooks sub-microteam
+
+> Wikimedia incubator sub-microteam
+
+### Reddit subteam
+
+> r/seanpm2001 moderator
+
+### Quora subteam
+
+_Abandoned_
+
+> Quora sub-microteam
+
+### Patreon subteam
+
+> Patreon Maintenance sub-microteam
+
+> Patreon accounting sub-microteam
+
+### AirBnB subteam
+
+> Owned and maintained by family
+
+### Ko-Fi subteam
+
+> Ko-Fi Maintenance sub-microteam
+
+> Ko-Fi accounting sub-microteam
+
+### Discord subteam
+
+> Discord server Maintenance sub-microteam
+
+> Discord server PR sub-microteam
+
+> Discord Moderator role
+
+***
+
+## Misc team
+
+### OS Census subteam
+
+> OS Census Ruby programmer sub-microteam
+
+> OS Census maintenance sub-microteam
+
+> OS Census census worker sub-microteam
+
+> OS Census documentation sub-microteam
+
+### uDonate subteam
+
+> uDonate VBScript programmer sub-microteam
+
+> uDonate Python programmer sub-microteam
+
+> uDonate maintenance sub-microteam
+
+> uDonate documentation sub-microteam
+
+> uDonate testing sub-microteam
+
+> uDonate financial committee sub-microteam
+
+> uDonate PR sub-microteam
+
+### Halloween Assistant subteam
+
+> Halloween Assistant Boo programmer sub-microteam
+
+> Halloween Assistant Genie programmer sub-microteam
+
+> Halloween Assistant general research sub-microteam
+
+> Halloween Assistant maintenance sub-microteam
+
+> Halloween Assistant enhancements sub-microteam
+
+> Halloween Assistant PR sub-microteam
+
+> Halloween Assistant candy research sub-microteam
+
+> Halloween Assistant graphic design sub-microteam
+
+### GeniBlock subteam
+
+> GeniBlock Genie programmer sub-microteam
+
+> GeniBlock Algorithm enhancements sub-microteam
+
+> GeniBlock documentation sub-microteam
+
+> GeniBlock research sub-microteam
+
+> GeniBlock maintenance sub-microteam
+
+> GeniBlock enhancements sub-microteam
+
+> GeniBlock PR sub-microteam
+
+### FreeGenie subteam
+
+> FreeGenie activism sub-microteam
+
+> FreeGenie database maintenance sub-microteam
+
+> FreeGenie Genie programmer sub-microteam
+
+> FreeGenie general maintenance sub-microteam
+
+> FreeGenie documentation sub-microteam
+
+> FreeGenie research sub-microteam
+
+> FreeGenie enhancements sub-microteam
+
+> FreeGenie PR sub-microteam
+
+> FreeGenie graphic design sub-microteam
+
+### PasswordGeneratorUltimate subteam
+
+> Password Generator Ultimate Python programmer sub-microteam
+
+> Password Generator Ultimate maintenance sub-microteam
+
+> Password Generator Ultimate documentation sub-microteam
+
+> Password Generator Ultimate research sub-microteam
+
+> Password Generator Ultimate enhancements sub-microteam
+
+> Password Generator Ultimate PR sub-microteam
+
+> Password Generator Ultimate graphic design sub-microteam
+
+### Timeout Toolkit Subteam
+
+> Timeout Toolkit Python programmer sub-microteam
+
+> Timeout Toolkit maintenance sub-microteam
+
+> Timeout Toolkit documentation sub-microteam
+
+> Timeout Toolkit research sub-microteam
+
+> Timeout Toolkit enhancements sub-microteam
+
+> Timeout Toolkit PR sub-microteam
+
+> Timeout Toolkit graphic design sub-microteam
+
+### Ratiyo subteam
+
+> Ratiyo Python programmer sub-microteam
+
+> Ratiyo maintenance sub-microteam
+
+> Ratiyo documentation sub-microteam
+
+> Ratiyo research sub-microteam
+
+> Ratiyo enhancements sub-microteam
+
+> Ratiyo PR sub-microteam
+
+> Ratiyo graphic design sub-microteam
+
+> Ratiyo statistics sub-microteam
+
+### NexxFetch subteam
+
+> NexxFetch Rust programmer sub-microteam
+
+> NexxFetch maintenance sub-microteam
+
+> NexxFetch documentation sub-microteam
+
+> NexxFetch research sub-microteam
+
+> NexxFetch enhancements sub-microteam
+
+> NexxFetch PR sub-microteam
+
+> NexxFetch graphic design sub-microteam
+
+> NexxFetch testing sub-microteam
+
+### Perl Harbor subteam
+
+> Perl Harbor Perl programmer sub-microteam
+
+> Perl Harbor maintenance sub-microteam
+
+> Perl Harbor documentation sub-microteam
+
+> Perl Harbor research sub-microteam
+
+> Perl Harbor enhancements sub-microteam
+
+> Perl Harbor PR sub-microteam
+
+> Perl Harbor graphic design sub-microteam
+
+> Perl Harbor testing sub-microteam
+
+> Perl Harbor veterans sub-microteam
+
+### Political subteam
+
+> Seanpm2001.personal
+
+### TrueTorrent subteam
+
+> TrueTorrent Python programmer sub-microteam
+
+> TrueTorrent maintenance sub-microteam
+
+> TrueTorrent documentation sub-microteam
+
+> TrueTorrent research sub-microteam
+
+> TrueTorrent enhancements sub-microteam
+
+> TrueTorrent PR sub-microteam
+
+> TrueTorrent graphic design sub-microteam
+
+> TrueTorrent testing sub-microteam
+
+### Meme Machine 2019 subteam
+
+_Abandoned_
+
+> MM2019 Python programmer sub-microteam
+
+> MM2019 maintenance sub-microteam
+
+> MM2019 documentation sub-microteam
+
+> MM2019 research sub-microteam
+
+> MM2019 enhancements sub-microteam
+
+> MM2019 PR sub-microteam
+
+> MM2019 graphic design sub-microteam
+
+> MM2019 testing sub-microteam
+
+### Blocklist subteam
+
+> SPM blocklist maintenance sub-microteam
+
+> SPM blocklist review sub-microteam
+
+> SPM Blocklist documentation sub-microteam
+
+> SPM Blocklist PR sub-microteam
+
+> SPM Blocklist automation sub-microteam
+
+### PFOSS Initiative subteam
+
+> PFOSS INI maintenance sub-microteam
+
+> PFOSS INI review sub-microteam
+
+> PFOSS INI documentation sub-microteam
+
+> PFOSS INI PR sub-microteam
+
+> PFOSS INI Private work sub-microteam
+
+### Go!gle engine subteam
+
+_Abandoned_
+
+> Go!gle Go! programmer sub-microteam (Go! is not to be confused with the Go programming language by Google)
+
+> Go!gle maintenance sub-microteam
+
+> Go!gle documentation sub-microteam
+
+> Go!gle PR sub-microteam
+
+> Go!gle crawler sub-microteam
+
+### WakeNote subteam
+
+> WakeNote Python programmer sub-microteam
+
+> WakeNote Java programmer sub-microteam
+
+> WakeNote Kotlin programmer sub-microteam
+
+> WakeNote Swift programmer sub-microteam
+
+> WakeNote Objective-C programmer sub-microteam
+
+> WakeNote documentation sub-microteam
+
+> WakeNote maintenance sub-microteam
+
+> WakeNote PR sub-microteam
+
+> WakeNote testing sub-microteam
+
+> WakeNote enhancements sub-microteam
+
+### Snapshot Version Control System subteam
+
+> SVCS documentation sub-microteam
+
+> SVCS maintenance sub-microteam
+
+> SVCS PR sub-microteam
+
+No other miscellaneous projects listed.
+
+***
+
+## For each team
+
+Discussion start {
+
+Job requirements
+
+Training resources
+
+Discussion.raise }
+
+Provide a description of each position.
+
+Provide documentation of each position
+
+Provide documentation in MD and ODT formats
+
+Describe what terms mean "PR" "Maintenance" "Research" "Testing" "Veterans" etc.
+
+Experience requirements
+
+***
+
 ## File info
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2022 Wednesday, February 16th at 5:38 pm)`
+**File version:** `9 (2022 Wednesday, February 16th at 7:13 pm)`
 
-**Line count (Including blank lines and compiler line):** `3,146`
+**Line count (Including blank lines and compiler line):** `3,586`
 
 ***
