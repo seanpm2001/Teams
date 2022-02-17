@@ -45,8 +45,6 @@ Bitchecker-dev
 
 Bootdown-dev
 
-Browsniffica✅️
-
 CH3-c-K
 
 ChromaTagsForGit
@@ -105,11 +103,7 @@ HT Messenger
 
 HX Template
 
-Hyper Realistic Farm Simulator ✅️
-
 IGNORE file
-
-Its-time-to-cut-WideVine DRM✅️
 
 Keyoff
 
@@ -120,8 +114,6 @@ LightSpeedRelayTechnologies
 LinkLax
 
 MadLibby
-
-Medical Ethics ✅️
 
 Meme Machine 2019
 
@@ -136,8 +128,6 @@ NimbleBit Fan Club
 Nost Gia OS
 
 Nostalgia project
-
-Numeric Liberation Front ✅️
 
 NUNIX
 
@@ -175,8 +165,6 @@ README Desktop Library
 
 RNAssistant
 
-RubbleRobot✅️
-
 S Desktop Environment
 
 SafeT
@@ -207,11 +195,7 @@ Patreon
 
 Marine Biology
 
-Metric System✅️
-
 Quora
-
-Robotics✅️
 
 Wikipedia
 
@@ -225,10 +209,6 @@ Slick license manager
 
 Snapshot version control system
 
-StartFsck/WinFsck ✅️
-
-What the FLoC✅️
-
 WebNetPlus
 
 WakeNote
@@ -241,15 +221,11 @@ Virtual Home
 
 Virtual-VHS
 
-Virg.io✅️
-
 V-Reshot
 
 UTPM
 
 UShortcut Pro
-
-URLL specification✅️
 
 uOffice
 
@@ -263,27 +239,13 @@ UI Tour Guide
 
 uDonate
 
-TuxBot Operating System✅️
-
 TrueEEG
 
 TrueCalm
 
 Timeout ToolKit
 
-The offline experience✅️
-
-The existential index✅️
-
-The dystopian dictionary✅️
-
 Techlaration
-
-Talla Browser✅️
-
-TalkScript✅️
-
-Super Power Laptops✅️
 
 SociaShame
 
@@ -3176,8 +3138,8 @@ No other hardware projects to list.
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2022 Wednesday, February 16th at 5:10 pm)`
+**File version:** `8 (2022 Wednesday, February 16th at 5:38 pm)`
 
-**Line count (Including blank lines and compiler line):** `3,184`
+**Line count (Including blank lines and compiler line):** `3,146`
 
 ***
