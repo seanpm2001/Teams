@@ -1,0 +1,9 @@
+readme
+gplv3
+teams
+project-management
+md
+txt
+gpl3
+project-maintenance
+seanpm2001-teams
